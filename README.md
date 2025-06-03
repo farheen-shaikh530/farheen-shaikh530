@@ -66,9 +66,9 @@ I'm a detail-oriented and creative **Full Stack Developer** with over **3.5 year
 
 ## 📫 Connect With Me
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farheen-shaikh0509/) | 
-[![Email](https://img.shields.io/badge/Email-f_shaikh1@u.pacific.edu-red?logo=gmail)](mailto:f_shaikh1@u.pacific.edu) |
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/farheen-shaikh530) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farheen-shaikh0509/) 
+[![Email](https://img.shields.io/badge/Email-f_shaikh1@u.pacific.edu-red?logo=gmail)](mailto:f_shaikh1@u.pacific.edu) 
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/farheen-shaikh530) 
 
 
 ---
