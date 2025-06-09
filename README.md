@@ -48,13 +48,13 @@ I'm a detail-oriented and creative **Full Stack Developer** with over **3.5 year
 
 ### 📩 Gmail Scam Filter Detection  
 🔍 Built an NLP-based scam email classifier using **Naive Bayes** and **LSTM**, integrated with Gmail API for real-time detection.  
-🔗 [View Project](https://github.com/yourrepo/gmail-scam-filter)
+🔗 [View Project]( https://github.com/farheen-shaikh530/Gmail-Scam-Filter )
 
 ---
 
 ### 🛡️ Phishing Awareness Simulation using Game Theory  
 🕹️ Designed a simulation game using **Pygame**, modeling attacker-defender dynamics with adaptive strategies and **reinforcement learning**.  
-🔗 [View Project](https://github.com/yourrepo/phishing-awareness-game)
+🔗 [View Project]( https://github.com/farheen-shaikh530/game-theoretic-phishing )
 
 ---
 
