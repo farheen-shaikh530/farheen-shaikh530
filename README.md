@@ -16,9 +16,13 @@
                                                                                            
 </pre>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Space!;Full+Stack+Developer+%7C+Open+Source+Contributor;AI+Whisperer+🤖+%7C+Cyber+Defender+🛡️" alt="Typing SVG" />
 </p>
+
+![Location](https://img.shields.io/badge/Location-California,%20USA-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ## 🤝 Let's Link Up & Launch Ideas!
 
@@ -155,6 +159,7 @@
 </table>
 
 ---
+
 ## 📡 ACTIVITY_SIGNAL.render()
 
 > 🧠 *“Code is contribution. Every dot is progress.”*  
@@ -163,5 +168,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farheen-shaikh530&theme=tokyo-night&hide_border=true&area=true&custom_title=Farheen%20Shaikh's%20Contribution%20Graph" width="100%" />
 
----
 
