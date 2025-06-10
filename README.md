@@ -69,12 +69,11 @@
 </details>
 
 <details>
-  <summary>📈 <strong>Adaptive Learning Trading Bot</strong></summary>
+  <summary>📈 <strong>Adaptive Learning Trading Bot</strong> <kbd>🚧 In Progress</kbd></summary>
 
   - 📊 Developed a rule-based bot enhanced with **Q-learning**
   - 🧪 Backtested on historical stock data with dynamic market response
   - 📈 Explored trading signals and portfolio optimization  
-  🔗 [View Project](https://github.com/yourrepo/adaptive-trading-bot)
 
 </details>
 
