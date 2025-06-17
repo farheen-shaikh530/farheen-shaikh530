@@ -130,13 +130,7 @@
 ## 📊 SYSTEM_ANALYTICS.exe
 <table>
 
-  <tr>
-    <!-- 🔥 Code Distribution -->
-    <td width="50%" valign="top">
-      <h4>🔥 Code Distribution</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farheen-shaikh530&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
- </tr>
+
  <tr>
     <!-- 🚀 Streak Protocol -->
     <td width="50%" valign="top">
