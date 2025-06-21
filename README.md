@@ -22,7 +22,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Space!;Full+Stack+Developer+%7C+Open+Source+Contributor;AI+Whisperer+🤖+%7C+Cyber+Defender+🛡️" alt="Typing SVG" />
 </p>
 
-![Location](https://img.shields.io/badge/Location-California,%20USA-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Stockton,%20California-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ## 🤝 Let's Link Up & Launch Ideas!
 
