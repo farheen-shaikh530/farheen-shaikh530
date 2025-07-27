@@ -54,6 +54,16 @@
 ---
 
 # 🚀 Featured Projects
+<details>
+  <summary>🌍 <strong>UOP Course Filter System</strong> <kbd>📚 Live Academic Tool</kbd> </summary>
+
+  - 🧭 Designed a dynamic web app for **Pacific’s Study Abroad Office**
+  - 📂 Filtered 300+ international course mappings by major, country, and university
+  - 🧑‍🎓 Built with **React**, **Firebase JSON**, and accordion-style UI for fast search
+  - 🔐 Implemented role-based access: **Admin (edit)** vs **Student (view only)**
+  🔗 [View Project](https://github.com/farheen-shaikh530/UniversityOfThePacific-course-filter)
+
+</details>
 
 <details>
   <summary>📩 <strong>Gmail Scam Filter Detection</strong></summary>
@@ -61,7 +71,7 @@
   - 🧠 Built a real-time scam email classifier using **Naive Bayes** and **LSTM**
   - 📧 Integrated with Gmail API for dynamic detection
   - 🔒 Emphasized secure email content parsing and validation  
-  🔗 [View Project](https://github.com/farheen-shaikh530/Gmail-Scam-Filter)
+  🔗 [View Project] (https://github.com/farheen-shaikh530/Gmail-Scam-Filter)
 
 </details>
 
