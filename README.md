@@ -133,6 +133,11 @@
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
 
+**Data & Integration:**
+
+![Sheety API](https://img.shields.io/badge/Sheety%20API-05C5FF?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
 **Cloud & Deployment:**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)   ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)   ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)   ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
 
