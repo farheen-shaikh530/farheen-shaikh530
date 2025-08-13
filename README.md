@@ -69,7 +69,7 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
   - 📂 Filtered 300+ international course mappings by major, country, and university
   - 🧑‍🎓 Built with **React**, **Firebase JSON**, and accordion-style UI for fast search
   - 🔐 Implemented role-based access: **Admin (edit)** vs **Student (view only)**
-  🔗 [View Project](https://github.com/farheen-shaikh530/UniversityOfThePacific-course-filter)
+  🔗 [View Project](https://github.com/farheen-shaikh530/UOP-CourseApprovalRequestForm-Updated)
 
 </details>
 
@@ -104,7 +104,6 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
 
 ---
 
-
 <h2>🔍 CURRENT_STATUS.exe</h2>
 
 <table>
@@ -113,8 +112,8 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <td width="50%" valign="top">
       <pre>
 {
-  "🛠️ currently_building": "Adaptive Trading Bot",
-  "📚 learning_stack": ["DevOps", "AI & ML", "AISecOps"],
+  "🛠️ currently_building": "Image recognition system with automatic text extraction into Excel columns",
+  "📚 learning_stack": ["AI", "ML", "LLM", "AWS DevOps Pipelines"],
   "🤝 collaboration_interest": "Full Stack Development Projects"
 }
       </pre>
@@ -123,7 +122,7 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <td width="50%" valign="top">
       <pre>
 {
-  "🧠 expertise": ["Cybersecurity", "Full Stack Dev", "AI Model Deployment"],
+  "🧠 expertise": ["LLM and AI", "API Security"],
   "🎯 mission": "Build scalable, secure, and intelligent systems that solve real-world problems.",
   "🎨 fun_fact": "I code with both logic and aesthetics — security meets storytelling!"
 }
@@ -142,6 +141,7 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
 
 **Data & Integration:**
+
 
 ![Sheety API](https://img.shields.io/badge/Sheety%20API-05C5FF?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
