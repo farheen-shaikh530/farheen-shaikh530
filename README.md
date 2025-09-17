@@ -101,7 +101,6 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
 </details>
 
 ---
-
 <h2>🔍 CURRENT_STATUS.exe</h2>
 
 <table>
@@ -109,10 +108,11 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <!-- Column 1: 🛠️ Current Activities -->
     <td width="50%" valign="top">
       <pre>
-{
+{ 
   "🛠️ currently_building": "Image recognition system with automatic text extraction into Excel columns",
+  "👩‍💻 fellowship_training": "Handshake Canary Project (Fellow, in training)",
   "📚 learning_stack": ["AI", "ML", "LLM", "AWS DevOps Pipelines"],
-  "🤝 collaboration_interest": "Full Stack Development Projects"
+  "🤝 collaboration_interest": "Full Stack Development", "AI & ML", "UI/UX Projects"
 }
       </pre>
     </td>
@@ -120,7 +120,7 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <td width="50%" valign="top">
       <pre>
 {
-  "🧠 expertise": ["LLM and AI", "API Security"],
+  "🧠 expertise": [ "UI/UX Design & Development", "Secure Coding Practices", "LLM Training", "API Integration", "Web Development & Deployment" ],
   "🎯 mission": "Build scalable, secure, and intelligent systems that solve real-world problems.",
   "🎨 fun_fact": "I code with both logic and aesthetics — security meets storytelling!"
 }
@@ -130,18 +130,17 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
 </table>
 
 
+
 ## ⚙️ TECH_ARSENAL.json
 
 **Backend:**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)   ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)   ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)  
 
 **Frontend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)   ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)   ![Google Visualization API](https://img.shields.io/badge/Google%20Visualization%20API-4285F4?logo=google&logoColor=white)  
 
-**Data & Integration:**
-
-
-![Sheety API](https://img.shields.io/badge/Sheety%20API-05C5FF?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Data & Integration:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=apachecassandra&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)  ![IndexedDB](https://img.shields.io/badge/IndexedDB-0095D5?logo=googlechrome&logoColor=white)  ![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=flat-square)  ![Sheety API](https://img.shields.io/badge/Sheety%20API-05C5FF?logo=google-sheets&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 
 
 **Cloud & Deployment:**  
