@@ -27,7 +27,6 @@
 ## 🤝 Let's Link Up & Launch Ideas!
 
 
-
 <!-- 📫 Contact Links -->
 <a href="mailto:farheen.s.shaikh05@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -41,12 +40,8 @@
 <a href="https://x.com/FarheenSS05" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile" />
 </a>
-
-
 </a>
 </a>
-
-
 </div>
 
 
@@ -68,35 +63,6 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
   - 🧑‍🎓 Built with **React**, **Firebase JSON**, and accordion-style UI for fast search
   - 🔐 Implemented role-based access: **Admin (edit)** vs **Student (view only)**
   🔗 [View Project](https://github.com/farheen-shaikh530/UOP-CourseApprovalRequestForm-Updated)
-
-</details>
-
-<details>
-  <summary>📩 <strong>Gmail Scam Filter Detection</strong></summary>
-
-  - 🧠 Built a real-time scam email classifier using **Naive Bayes** and **LSTM**
-  - 📧 Integrated with Gmail API for dynamic detection
-  - 🔒 Emphasized secure email content parsing and validation  
-  🔗 [View Project] (https://github.com/farheen-shaikh530/Gmail-Scam-Filter)
-
-</details>
-
-<details>
-  <summary>🛡️ <strong>Phishing Awareness Simulation using Game Theory</strong></summary>
-
-  - 🎮 Created a simulation using **Pygame** modeling attacker-defender behavior
-  - 🧩 Applied **Game Theory** & **Reinforcement Learning** for strategy learning
-  - 📊 Visualized evolving attacker strategies and Nash Equilibria  
-  🔗 [View Project](https://github.com/farheen-shaikh530/game-theoretic-phishing)
-
-</details>
-
-<details>
-  <summary>📈 <strong>Adaptive Learning Trading Bot</strong> <kbd>🚧 In Progress</kbd></summary>
-
-  - 📊 Developed a rule-based bot enhanced with **Q-learning**
-  - 🧪 Backtested on historical stock data with dynamic market response
-  - 📈 Explored trading signals and portfolio optimization  
 
 </details>
 
