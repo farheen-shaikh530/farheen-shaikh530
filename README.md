@@ -62,7 +62,16 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
   - 📂 Filtered 300+ international course mappings by major, country, and university
   - 🧑‍🎓 Built with **React**, **Firebase JSON**, and accordion-style UI for fast search
   - 🔐 Implemented role-based access: **Admin (edit)** vs **Student (view only)**
-  🔗 [View Project](https://github.com/farheen-shaikh530/UOP-CourseApprovalRequestForm-Updated)
+  - 🔗 [View Project](https://github.com/farheen-shaikh530/UOP-CourseApprovalRequestForm-Updated)
+
+</details>
+<details>
+  <summary>🤖 <strong>Reinforcement Learning Algorithms in Simulation</strong> <kbd>🧪 Research Project</kbd> </summary>
+
+  - 🧭 Designed and implemented **reinforcement learning algorithms** in **OpenAI Gym** and **PyBullet**
+  - 📊 Analyzed experimental results, documented findings, and prepared research-ready outputs
+  - 🧑‍🔬 Explored **Q-learning, DQN, and Policy Gradient methods** with simulation-based benchmarks
+  - 🔗 [View Project](https://github.com/farheen-shaikh530/RL-Algorithms-in-Simulation)
 
 </details>
 
