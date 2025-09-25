@@ -28,6 +28,7 @@
 
 
 <!-- 📫 Contact Links -->
+
 <a href="mailto:farheen.s.shaikh05@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -40,9 +41,9 @@
 <a href="https://x.com/FarheenSS05" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile" />
 </a>
+<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
 </a>
-</a>
-</div>
 
 
 
