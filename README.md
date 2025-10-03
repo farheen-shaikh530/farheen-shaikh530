@@ -47,11 +47,6 @@
 
 
 
----
-# 📅 Book a Website Project Discussion
-Ready to elevate your brand? Book your 30-minute consultation and let’s get started. 
-➡ **[Let's Connect](https://calendly.com/farheen-s-shaikh05/30min?utm_source=github&utm_medium=readme&utm_campaign=book_website_service)**
-
 
 ---
 
@@ -62,11 +57,10 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <!-- Column 1: 🛠️ Current Activities -->
     <td width="50%" valign="top">
       <pre>
-{ 
-  "🛠️ currently_building": "Image recognition system with automatic text extraction into Excel columns",
+{      
   "👩‍💻 fellowship_training": "Handshake Canary Project (Fellow, in training)",
-  "📚 learning_stack": ["AI", "ML", "LLM", "AWS DevOps Pipelines"],
-  "🤝 collaboration_interest": "Full Stack Development", "AI & ML", "UI/UX Projects"
+  "📚 learning_stack": ["DSA problems & system engineering", "LLMs (reasoning limits & prompting)", "AI Agents (solutions & gaps)", "Applied AI & ML projects"],
+  "🤝 collaboration_interest": ["Full Stack Development", "AI & ML", "UI/UX Projects"]       
 }
       </pre>
     </td>
@@ -74,9 +68,9 @@ Ready to elevate your brand? Book your 30-minute consultation and let’s get st
     <td width="50%" valign="top">
       <pre>
 {
-  "🧠 expertise": [ "UI/UX Design & Development", "Secure Coding Practices", "LLM Training", "API Integration", "Web Development & Deployment" ],
+  "🧠 expertise": [ "System Design & Engineering", "Secure Coding Practices", "LLM Training", "API Integration", "Full Stack development" ],
   "🎯 mission": "Build scalable, secure, and intelligent systems that solve real-world problems.",
-  "🎨 fun_fact": "I code with both logic and aesthetics — security meets storytelling!"
+  "🎨 fun_fact": "✨ Most of my GitHub commits are timestamped past midnight — because great bugs and better ideas both love the quiet hours! 🌙💻"
 }
       </pre>
     </td>
