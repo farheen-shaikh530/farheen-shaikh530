@@ -105,14 +105,6 @@
 ## 📊 SYSTEM_ANALYTICS.exe
 <table>
 
-
- <tr>
-    <!-- 🚀 Streak Protocol -->
-    <td width="50%" valign="top">
-      <h4>🚀 Streak Protocol</h4>
-      <img src="https://streak-stats.demolab.com?user=farheen-shaikh530&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
  <td width="70%" valign="top">
 
      
