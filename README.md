@@ -70,7 +70,7 @@
 {
   "🧠 expertise": [ "System Design & Engineering", "Secure Coding Practices", "LLM Training", "API Integration", "Full Stack development" ],
   "🎯 mission": "Build scalable, secure, and intelligent systems that solve real-world problems.",
-  "🎨 fun_fact": "✨ Most of my GitHub commits are timestamped past midnight — because great bugs and better ideas both love the quiet hours! 🌙💻"
+  "🎨 fun_fact": "✨ Great bugs and better ideas both love the quiet hours! 💻"
 }
       </pre>
     </td>
