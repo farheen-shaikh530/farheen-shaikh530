@@ -162,17 +162,20 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=farheen-shaikh530&theme=darkhub&no-frame=true&column=10">
 </a>
+
+</br></br>
+
 <details>
-  
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
-    <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
+
+ <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
 <h3> :star: My favorite GitHub Repos</h3>
 See <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool">here</a> a list of the awesome repositories I've starred! List updates daily.
-
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/discussions">Discussions</a>!</p>
