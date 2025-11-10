@@ -117,45 +117,34 @@
     </a>
 </details>
 
-<h2>:octocat: My GitHub Activity</h2>
-
 :key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
 
-<h3>:bar_chart: My GitHub Stats</h3>
 
-<details>
-<summary>My recent activity</summary>
-Last Updated: Sunday, November 9th, 2025, 10:38:48 PM
-</details>
+<h2>:octocat: My GitHub Activity</h2>
+<div>
+      <a href="https://badges.strrl.dev">
+    <img alt="Commits today" src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+        <a href="https://badges.strrl.dev">
+        <img alt="GitHub repos" src="https://badges.strrl.dev/repos/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+    <a href="https://github.com/farheen-shaikh530">
+    </a>
+    </a>
+    </a>
+    <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>-->
+    <a href="https://badges.strrl.dev">
+        <img alt="Commits this month" src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+    </a>
+    <!--<a href="https://badges.strrl.dev"><img alt="All commits" src="https://badges.strrl.dev/commits/all/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>-->
+</div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=farheen-shaikh530&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Farheen's GitHub Stats" />
+</a>
+</br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=farheen-shaikh530&theme=darkhub&no-frame=true&column=10">
+</a>
 <details>
-    <summary>My GitHub stats</summary>
-    <div>
-        <a href="https://github.com/Carol42">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-    </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
-    </a>
-    </br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
-    </a>
     <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
         <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
     </a>-->
@@ -180,7 +169,7 @@ See <a href="https://github.com/farheen-shaikh530/DSA-Practice-Java">here</a> a 
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
-<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/discussions">Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
