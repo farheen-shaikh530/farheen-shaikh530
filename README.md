@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Full+Stack+Developer;Matcha+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Science Student, Full-stack developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Science+Student;Full+Stack+Developer;Matcha+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Science Student, Full-stack developer, Power Metal lover"></a>
 </div>
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
@@ -46,15 +46,18 @@
 </br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+<p align="left">
+  <code><img title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+  <code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img title="C#" alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+  <code><img title="JavaScript" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  <code><img title="React" alt="ReactJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img title="Angular" alt="Angular" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
+  <code><img title="Node.js" alt="NodeJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img title="HTML5" alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code><img title="CSS3" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+</p>
+
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
@@ -118,32 +121,46 @@
 
 <h2>:octocat: My GitHub Activity</h2>
 <div>
-      <a href="https://badges.strrl.dev">
-    <img alt="Commits today" src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-        <a href="https://badges.strrl.dev">
-        <img alt="GitHub repos" src="https://badges.strrl.dev/repos/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-    <a href="https://github.com/farheen-shaikh530">
-    </a>
-    </a>
-    </a>
-    <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>-->
-    <a href="https://badges.strrl.dev">
-        <img alt="Commits this month" src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-    </a>
-    <!--<a href="https://badges.strrl.dev"><img alt="All commits" src="https://badges.strrl.dev/commits/all/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>-->
+    <div>
+  <a href="https://badges.strrl.dev">
+<img alt="Commits today" src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+</a>
+<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>
+<img alt="Commits this month" src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+<a href="https://badges.strrl.dev"><img alt="All commits" src="https://badges.strrl.dev/commits/all/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>
+<a href="https://badges.strrl.dev">
+<img alt="GitHub repos" src="https://badges.strrl.dev/repos/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
+<a href="https://badges.strrl.dev">
+    
+</a>
+</a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=farheen-shaikh530&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Farheen's GitHub Stats" />
+<br/>
+
+<!-- 💜 Purple Streak Graph -->
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="animated divider" width="100%"/>
+</p>
+
+<br/>
+<!-- 💫 Purple Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farheen-shaikh530&area=true&hide_border=true&bg_color=000&line=7D3C98&point=BA68C8&color=B388EB&area_color=7D3C98&custom_title=Farheen%20Shaikh's%20Active%20Commits" width="100%">
 </a>
+ 
+ 
+
+</div>
+
+
 </br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=farheen-shaikh530&theme=darkhub&no-frame=true&column=10">
 </a>
 <details>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
-    </a>-->
+  
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
@@ -151,14 +168,6 @@
 
 <h3> :star: My favorite GitHub Repos</h3>
 See <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool">here</a> a list of the awesome repositories I've starred! List updates daily.
-
-<!-- <details>
-    <summary>Profile visitors</summary>
-    <p align="center">:round_pushpin: Profile visitors</p>
-    <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
-    </div>
-</details> -->
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
