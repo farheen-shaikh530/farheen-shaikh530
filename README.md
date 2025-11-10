@@ -1,133 +1,197 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
 <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
-<!-- ASCII name banner here -->
-<pre>
- ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄ 
-▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌
-▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌░▌     ▐░▌
-▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌          ▐░▌          ▐░▌▐░▌    ▐░▌
-▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌   ▐░▌
-▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌
-▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀█░█▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌   ▐░▌ ▐░▌
-▐░▌          ▐░▌       ▐░▌▐░▌     ▐░▌  ▐░▌       ▐░▌▐░▌          ▐░▌          ▐░▌    ▐░▌▐░▌
-▐░▌          ▐░▌       ▐░▌▐░▌      ▐░▌ ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌     ▐░▐░▌
-▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌      ▐░░▌
- ▀            ▀         ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀ 
-                                                                                           
-</pre>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Space!;Full+Stack+Developer+%7C+Open+Source+Contributor;AI+Whisperer+🤖+%7C+Cyber+Defender+🛡️" alt="Typing SVG" />
-</p>
-
-![Location](https://img.shields.io/badge/Location-Stockton,%20California-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-## 🤝 Let's Link Up & Launch Ideas!
-
-
-<!-- 📫 Contact Links -->
-
-<a href="mailto:farheen.s.shaikh05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/farheen-shaikh530" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/FarheenSS05" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile" />
-</a>
-<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-</a>
-
-
-
-
----
-
-<h2>🔍 CURRENT_STATUS.exe</h2>
-
-<table>
-  <tr>
-    <!-- Column 1: 🛠️ Current Activities -->
-    <td width="50%" valign="top">
-      <pre>
-{      
-  "👩‍💻 fellowship_training": "Handshake Canary Project (Fellow, in training)",
-  "📚 learning_stack": ["DSA problems & system engineering", "LLMs (reasoning limits & prompting)", "AI Agents (solutions & gaps)", "Applied AI & ML projects"],
-  "🤝 collaboration_interest": ["Full Stack Development", "AI & ML", "UI/UX Projects"]       
-}
-      </pre>
-    </td>
-    <!-- Column 2: 🧠 Profile Details -->
-    <td width="50%" valign="top">
-      <pre>
-{
-  "🧠 expertise": [ "System Design & Engineering", "Secure Coding Practices", "LLM Training", "API Integration", "Full Stack development" ],
-  "🎯 mission": "Build scalable, secure, and intelligent systems that solve real-world problems.",
-  "🎨 fun_fact": "✨ Great bugs and better ideas both love the quiet hours! 💻"
-}
-      </pre>
-    </td>
-  </tr>
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
 
-## ⚙️ TECH_ARSENAL.json
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+</a>
+<a href="https://codepen.io/Carol42">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+</a>
+<a href="https://linkedin.com/in/carol42">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+<a href="https://twitter.com/carol42helo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
+</a>
+</a>
+<a href="mailto:carol42.helo@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+</br>
 
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)   ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)   
+<h2>:bulb: Languages & Frameworks I code in</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+</br></br>
 
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)   ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)   
+<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
+<details>
+<summary>Click here for a cute surprise! :3</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
 
-**Data & Integration:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=apachecassandra&logoColor=white) 
+<h2>:books: My personal portfolio</h2>
+<a href="https://github.com/Carol42/portfolio">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a>
+</br>
+<a href="https://portfolio-carol42.vercel.app/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
 
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
-**Cloud & Deployment:**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)   ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)   ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
-**Version Control & Project Management:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
+<h3>:headphones: Albums I've listened to the most this week</h3>
 
-**Operating Systems:**  
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+<!-- lastfm -->
+<p align="center"><a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Helloween/Keeper+Of+The+Seven+Keys,+Pt.+I+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a2463ffc38acae5ed1e0a7837dbe28a6.jpg" title="Helloween - Keeper Of The Seven Keys, Pt. I (Expanded Edition)"></a> </p>
 
----
+</br>
+<sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
 
-## 📊 SYSTEM_ANALYTICS.exe
-<table>
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 
- <td width="70%" valign="top">
+<h2>:octocat: My GitHub Activity</h2>
 
-     
- ⚡ Performance Metrics
+:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/Carol42.gpg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farheen-shaikh530&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    
-  <table>
-  <tr>
-    
-</table>
+<h3>:bar_chart: My GitHub Stats</h3>
+<details>
+<summary>My recent activity</summary>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
----
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, November 9th, 2025, 10:38:48 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+</details>
 
-## 📡 ACTIVITY_SIGNAL.render()
+<details>
+    <summary>My GitHub stats</summary>
+    <div>
+        <a href="https://github.com/Carol42">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        </a>
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+    </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    </br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+    </a>
+    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+    </a>-->
+    </br>
+    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+</details>
+    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
 
-> 🧠 *“Code is contribution. Every dot is progress.”*  
->  
-> 📅 Visual timeline of my GitHub activity, commits, and contribution streaks:
+<h3> :star: My favorite GitHub Repos</h3>
+See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farheen-shaikh530&theme=tokyo-night&hide_border=true&area=true&custom_title=Farheen%20Shaikh's%20Contribution%20Graph" width="100%" />
+<!-- <details>
+    <summary>Profile visitors</summary>
+    <p align="center">:round_pushpin: Profile visitors</p>
+    <div align="center">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    </div>
+</details> -->
 
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
