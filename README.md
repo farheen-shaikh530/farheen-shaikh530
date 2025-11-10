@@ -26,8 +26,6 @@
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
 </div>
 
-
-
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/farheen-shaikh530">
   <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/farheen-shaikh530?style=for-the-badge&color=7D3C98&logo=github&logoColor=ffffff&label=@farheen-shaikh530" height="22px">
@@ -168,7 +166,7 @@ Last Updated: Sunday, November 9th, 2025, 10:38:48 PM
     <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
 
 <h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
+See <a href="https://github.com/farheen-shaikh530/DSA-Practice-Java">here</a> a list of the awesome repositories I've starred! List updates daily.
 
 <!-- <details>
     <summary>Profile visitors</summary>
