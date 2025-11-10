@@ -5,17 +5,26 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Farheen;She/her/hers;Computer+Science+Student;Full+Stack+Developer;Matcha+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Science Student, Full-stack developer, Power Metal lover"></a>
 </div>
 
+<p align="center">
+  🌐 <b>Languages:</b>
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" alt="US flag" width="17px"> English
+  </a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pk.svg" alt="Pakistan flag" width="17px"> Urdu
+  </a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/in.svg" alt="India flag" width="17px"> Hindi & Marathi
+  </a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" alt="Saudi Arabia flag" width="17px"> Arabic
+  </a>
+</p>
+
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-<table align="right">
- <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pk.svg" alt="Pakistan flag" width="17px"> Urdu</a></td></tr>
- <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/in.svg" alt="India flag" width="17px"> Hindi & Marathi</a></td></tr>
- 
- <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" alt="Saudi Arabia flag" width="17px"> Arabic</a></td></tr>
-</table>
 
 
 <h2>🚀 Flagship Projects</h2>
