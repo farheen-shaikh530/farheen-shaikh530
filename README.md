@@ -6,22 +6,12 @@
 </div>
 
 <p align="center">
- <h2>🌐 Languages</h2>
- <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="17px"> English
-  </a>|
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pk.svg" width="17px"> Urdu
-  </a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/in.svg" width="17px"> Hindi
-  </a> 
-     <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/in.svg" width="17px"> Marathi
-  </a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" width="17px"> Arabic
-  </a>
+  <h2>🌐 Languages</h2>
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">English</a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">Urdu</a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">Hindi</a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">Marathi</a> |
+  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md">Arabic</a>
 </p>
 
 
