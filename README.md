@@ -10,9 +10,13 @@
 <a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+ <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pk.svg" alt="Pakistan flag" width="17px"> Urdu</a></td></tr>
+ <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/in.svg" alt="India flag" width="17px"> Hindi & Marathi</a></td></tr>
+ 
+ <tr><td><a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" alt="Saudi Arabia flag" width="17px"> Arabic</a></td></tr>
 </table>
+
 
 <h2>ℹ️ Project info</h2>
 <div>
@@ -66,10 +70,7 @@
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
-<details>
-<summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
+
 
 <h2>:books: My personal portfolio</h2>
 <a href="https://github.com/Carol42/portfolio">
@@ -96,7 +97,6 @@
 <p align="center"><a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Helloween/Keeper+Of+The+Seven+Keys,+Pt.+I+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a2463ffc38acae5ed1e0a7837dbe28a6.jpg" title="Helloween - Keeper Of The Seven Keys, Pt. I (Expanded Edition)"></a> </p>
 
 </br>
-<sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
