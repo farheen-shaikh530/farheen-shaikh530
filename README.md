@@ -18,14 +18,65 @@
 </table>
 
 
-<h2>ℹ️ Project info</h2>
-<div>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/farheen-shaikh530/farheen-shaikh530?color=7D3C98&logo=github&style=for-the-badge&logoColor=ffffff" height="22px">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/farheen-shaikh530/farheen-shaikh530?color=7D3C98&logo=github&style=for-the-badge&logoColor=ffffff" height="22px">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/farheen-shaikh530/farheen-shaikh530?color=7D3C98&logo=github&style=for-the-badge&logoColor=ffffff" height="22px">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/farheen-shaikh530/farheen-shaikh530?color=F05032&logo=git&style=for-the-badge" height="22px">
-  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/farheen-shaikh530/farheen-shaikh530?color=F05032&logo=git&style=for-the-badge" height="22px"> 
-</div>
+<h2>🚀 Flagship Projects</h2>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+    <th>Repo Info</th>
+  </tr>
+
+  <!-- Reinforcement Learning Email Case Study -->
+  <tr>
+    <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
+    <td><code>Python</code> · <code>RLlib</code> · <code>OpenAI Gym</code> · <code>Matplotlib</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=F05032&logo=git" />
+    </td>
+  </tr>
+
+  <!-- Engage Metrics WebApp -->
+  <tr>
+    <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank"><b>Engage Metrics WebApp</b></a></td>
+    <td><code>React</code> · <code>FastAPI</code> · <code>Kafka</code> · <code>Redis</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/engage-metrics-webapp?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/engage-metrics-webapp?color=F05032&logo=git" />
+    </td>
+  </tr>
+
+  <!-- Global Course Mapping Tool -->
+  <tr>
+    <td>🗺️ <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool" target="_blank"><b>Global Course Mapping Tool</b></a></td>
+    <td><code>React</code> · <code>Firebase</code> · <code>Google Sheets API</code> · <code>TailwindCSS</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/global-course-mapping-tool?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/global-course-mapping-tool?color=F05032&logo=git" />
+    </td>
+  </tr>
+
+  <!-- AR/VR in Education Case Study -->
+  <tr>
+    <td>🧠 <a href="https://github.com/farheen-shaikh530/AR-VR-in-Education-CaseStudy" target="_blank"><b>AR/VR in Education Case Study</b></a></td>
+    <td><code>Unity</code> · <code>Vuforia</code> · <code>C#</code> · <code>UX Research</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/AR-VR-in-Education-CaseStudy?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/AR-VR-in-Education-CaseStudy?color=F05032&logo=git" />
+    </td>
+  </tr>
+
+  <!-- Study Abroad Insight Hub -->
+  <tr>
+    <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Hub</b></a></td>
+    <td><code>React</code> · <code>MongoDB</code> · <code>Express</code> · <code>Node.js</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/study-abroad-insight-hub?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/study-abroad-insight-hub?color=F05032&logo=git" />
+    </td>
+  </tr>
+</table>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/farheen-shaikh530">
