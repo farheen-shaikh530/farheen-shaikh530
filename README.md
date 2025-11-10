@@ -20,10 +20,7 @@
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/farheen-shaikh530/farheen-shaikh530?color=7D3C98&logo=github&style=for-the-badge&logoColor=ffffff" height="22px">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/farheen-shaikh530/farheen-shaikh530?color=7D3C98&logo=github&style=for-the-badge&logoColor=ffffff" height="22px">
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/farheen-shaikh530/farheen-shaikh530?color=F05032&logo=git&style=for-the-badge" height="22px">
-  <!-- <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/farheen-shaikh530/farheen-shaikh530?color=F05032&logo=git&style=for-the-badge" height="22px"> -->
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/farheen-shaikh530/farheen-shaikh530?color=F05032&logo=git&style=for-the-badge" height="22px"> 
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -36,8 +33,7 @@
 <a href="https://x.com/FarheenSS05">
   <img alt="Link to my X (Twitter)" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@FarheenSS05&color=000000&logo=x" height="22px">
 </a>
-<a href="https://leetcode.com/u/fshaikh1/">
-  <img alt="Link to my LeetCode" src="https://img.shields.io/static/v1?label&message=/u/fshaikh1&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=ffffff" height="22px" />
+
 </a>
 <a href="mailto:farheen.s.shaikh05@gmail.com">
   <img alt="Send me an email" src="https://img.shields.io/static/v1?label&message=farheen.s.shaikh05@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail&logoColor=D14836" height="22px" />
