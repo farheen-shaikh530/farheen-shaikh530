@@ -6,10 +6,10 @@
 </div>
 
 <p align="center">
-  🌐 <b>Languages:</b>
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">
+ <h2>🌐 Languages</h2>
+ <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" alt="US flag" width="17px"> English
-  </a> |
+  </a>|
   <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pk.svg" alt="Pakistan flag" width="17px"> Urdu
   </a> |
@@ -20,11 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" alt="Saudi Arabia flag" width="17px"> Arabic
   </a>
 </p>
-
-<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
-
 
 
 <h2>🚀 Flagship Projects</h2>
