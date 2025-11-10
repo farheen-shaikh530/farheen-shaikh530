@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Science+Student;Full+Stack+Developer;Matcha+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Science Student, Full-stack developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Farheen;She/her/hers;Computer+Science+Student;Full+Stack+Developer;Matcha+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Science Student, Full-stack developer, Power Metal lover"></a>
 </div>
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
@@ -43,7 +43,7 @@
   <img alt="Send me an email" src="https://img.shields.io/static/v1?label&message=farheen.s.shaikh05@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail&logoColor=D14836" height="22px" />
 </a>
 
-</br>
+</br></br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <p align="left">
@@ -58,22 +58,26 @@
   <code><img title="CSS3" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 </p>
 
-</br></br>
+</br>
 
-<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
-<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
-<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-</br></br>
+<h2>:hammer_and_wrench: Things That Help Me Get My Code Done</h2>
 
+<p align="left">
+  <code><img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+  <code><img title="Netlify" alt="Netlify" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" /></code>
+  <code><img title="Amazon Web Services (AWS)" alt="AWS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+  <code><img title="Google Cloud Platform (GCP)" alt="Google Cloud" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
+  <code><img title="Windows" alt="Microsoft Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+  <code><img title="macOS" alt="macOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+  <code><img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+  <code><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img title="Jira" alt="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>
+  <code><img title="Spring Boot" alt="Spring Boot" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
+  <code><img title="Apache Kafka" alt="Kafka" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /></code>
+  <code><img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+</p>
+
+</br></br>
 
 <h2>:books: My personal portfolio</h2>
 <a href="https://github.com/Carol42/portfolio">
@@ -136,7 +140,7 @@
 </a>
 </div>
 
-<br/>
+</br></br>
 
 <!-- 💜 Purple Streak Graph -->
 
@@ -150,12 +154,11 @@
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farheen-shaikh530&area=true&hide_border=true&bg_color=000&line=7D3C98&point=BA68C8&color=B388EB&area_color=7D3C98&custom_title=Farheen%20Shaikh's%20Active%20Commits" width="100%">
 </a>
  
- 
 
 </div>
 
+</br></br>
 
-</br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=farheen-shaikh530&theme=darkhub&no-frame=true&column=10">
 </a>
@@ -170,7 +173,6 @@
 See <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool">here</a> a list of the awesome repositories I've starred! List updates daily.
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/discussions">Discussions</a>!</p>
