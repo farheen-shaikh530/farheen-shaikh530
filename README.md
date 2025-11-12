@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <h2>🌐 Languages</h2>
+  <h2>🌐 Languages That Shape My Voice</h2>
   <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">English</a> |
   <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">Urdu</a> |
   <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">Hindi</a> |
