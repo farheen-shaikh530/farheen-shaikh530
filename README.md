@@ -42,6 +42,16 @@
     <th>Repo Info</th>
   </tr>
 
+<!-- RAG Pipeline for ReleaseGuard (In Progress) -->
+<tr>
+  <td>🛠️ <a href="https://github.com/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard" target="_blank"><b>RAG Pipeline for ReleaseGuard</b> <i>(In Progress)</i></a></td>
+  <td><code>Python</code> · <code>LangChain</code> · <code>FAISS</code> · <code>OpenAI API</code> · <code>Streamlit</code></td>
+  <td align="center">
+    <img src="https://img.shields.io/github/stars/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=7D3C98&logo=github" />
+    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=F05032&logo=git" />
+  </td>
+</tr>
+
   <!-- Reinforcement Learning Email Case Study -->
   <tr>
     <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
