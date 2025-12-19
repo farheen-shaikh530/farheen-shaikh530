@@ -65,7 +65,7 @@
 
 <!-- RAG Pipeline for ReleaseGuard (In Progress) -->
 <tr>
-  <td>🛠️ <a href="https://github.com/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard" target="_blank"><b>RAG Pipeline for ReleaseGuard</b> <i>(In Progress)</i></a></td>
+  <td>🛠️ <a href="https://github.com/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard" target="_blank"><b>RAG Pipeline for Release Notes Software</b> <i>(In Progress)</i></a></td>
   <td><code>Python</code> · <code>LangChain</code> · <code>FAISS</code> · <code>OpenAI API</code> · <code>Streamlit</code></td>
   <td align="center">
     <img src="https://img.shields.io/github/stars/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=7D3C98&logo=github" />
@@ -76,14 +76,24 @@
 
 
   <!-- Engage Metrics WebApp -->
-  <tr>
-    <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank"><b>Engage Metrics WebApp</b></a></td>
-    <td><code>React</code> · <code>FastAPI</code> · <code>Kafka</code> · <code>Redis</code></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/farheen-shaikh530/engage-metrics-webapp?color=7D3C98&logo=github" />
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/engage-metrics-webapp?color=F05032&logo=git" />
-    </td>
-  </tr>
+ <tr>
+  <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank">
+    <b>Personal Engage Metrics WebApp</b>
+  </a></td>
+  <td>
+    <code>React</code> ·
+    <code>FastAPI</code> ·
+    <code>Kafka</code> ·
+    <code>Redis</code> ·
+    <code>Microsoft Azure Entra ID</code> ·
+    <code>When2Work API</code> ·
+    <code>Google Calendar API</code>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/github/stars/farheen-shaikh530/engage-metrics-webapp?color=7D3C98&logo=github" />
+    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/engage-metrics-webapp?color=F05032&logo=git" />
+  </td>
+</tr>
 
   <!-- Global Course Mapping Tool -->
   <tr>
@@ -99,7 +109,7 @@
 
   <!-- Study Abroad Insight Hub for Office of Study Abroad -->
   <tr>
-    <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Hub</b></a></td>
+    <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Dashboard</b></a></td>
     <td><code>React</code> · <code>MongoDB</code> · <code>Express</code> · <code>Node.js</code></td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/farheen-shaikh530/study-abroad-insight-hub?color=7D3C98&logo=github" />
