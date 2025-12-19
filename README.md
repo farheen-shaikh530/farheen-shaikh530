@@ -42,6 +42,27 @@
     <th>Repo Info</th>
   </tr>
 
+  <tr>
+  <td>⚛️ <a href="https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection" target="_blank">
+    <b>Quantum Neural Network for Advance-Fee Fraud Detection</b>
+  </a></td>
+  <td>
+    <code>Quantum Neural Network (QNN)</code> ·
+    <code>Scikit-learn</code> ·
+    <code>Matplotlib</code> ·
+    <code>NumPy</code> ·
+    <code>Pandas</code> ·
+    <code>Logistic Regression</code> ·
+    <code>Support Vector Machine (SVM)</code> ·
+    <code>Neural Network (MLP)</code>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/github/stars/farheen-shaikh530/quantum-advance-Fee-Fraud-detection?color=7D3C98&logo=github" />
+    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/quantum-advance-Fee-Fraud-detection?color=F05032&logo=git" />
+  </td>
+</tr>
+
+
 <!-- RAG Pipeline for ReleaseGuard (In Progress) -->
 <tr>
   <td>🛠️ <a href="https://github.com/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard" target="_blank"><b>RAG Pipeline for ReleaseGuard</b> <i>(In Progress)</i></a></td>
