@@ -52,15 +52,7 @@
   </td>
 </tr>
 
-  <!-- Reinforcement Learning Email Case Study -->
-  <tr>
-    <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
-    <td><code>Python</code> · <code>RLlib</code> · <code>OpenAI Gym</code> · <code>Matplotlib</code></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=7D3C98&logo=github" />
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=F05032&logo=git" />
-    </td>
-  </tr>
+
 
   <!-- Engage Metrics WebApp -->
   <tr>
@@ -82,17 +74,9 @@
     </td>
   </tr>
 
-  <!-- AR/VR in Education Case Study -->
-  <tr>
-    <td>🧠 <a href="https://github.com/farheen-shaikh530/AR-VR-in-Education-CaseStudy" target="_blank"><b>AR/VR in Education Case Study</b></a></td>
-    <td><code>Unity</code> · <code>Vuforia</code> · <code>C#</code> · <code>UX Research</code></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/farheen-shaikh530/AR-VR-in-Education-CaseStudy?color=7D3C98&logo=github" />
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/AR-VR-in-Education-CaseStudy?color=F05032&logo=git" />
-    </td>
-  </tr>
 
-  <!-- Study Abroad Insight Hub -->
+
+  <!-- Study Abroad Insight Hub for Office of Study Abroad -->
   <tr>
     <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Hub</b></a></td>
     <td><code>React</code> · <code>MongoDB</code> · <code>Express</code> · <code>Node.js</code></td>
@@ -101,6 +85,17 @@
       <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/study-abroad-insight-hub?color=F05032&logo=git" />
     </td>
   </tr>
+
+   <!-- Reinforcement Learning Email Case Study -->
+  <tr>
+    <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
+    <td><code>Python</code> · <code>RLlib</code> · <code>OpenAI Gym</code> · <code>Matplotlib</code></td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=7D3C98&logo=github" />
+      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=F05032&logo=git" />
+    </td>
+  </tr>
+  
 </table>
 
 
