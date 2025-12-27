@@ -208,20 +208,48 @@
 
 <h2>:octocat: My GitHub Activity</h2>
 <div>
-    <div>
+    <div align="center">
+
+
+
+  <!-- Commit Badges -->
   <a href="https://badges.strrl.dev">
-<img alt="Commits today" src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-</a>
-<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>
-<img alt="Commits this month" src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-<a href="https://badges.strrl.dev"><img alt="All commits" src="https://badges.strrl.dev/commits/all/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98"></a>
-<a href="https://badges.strrl.dev">
-<img alt="GitHub repos" src="https://badges.strrl.dev/repos/farheen-shaikh530?color=181717&style=for-the-badge&labelColor=7D3C98">
-<a href="https://badges.strrl.dev">
-    
-</a>
-</a>
+    <img 
+      alt="Commits Today" 
+      src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
+    />
+  </a>
+
+  <a href="https://badges.strrl.dev">
+    <img 
+      alt="Commits This Week" 
+      src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
+    />
+  </a>
+
+  <a href="https://badges.strrl.dev">
+    <img 
+      alt="Commits This Month" 
+      src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
+    />
+  </a>
+
+  <a href="https://badges.strrl.dev">
+    <img 
+      alt="All Commits" 
+      src="https://badges.strrl.dev/commits/all/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
+    />
+  </a>
+
+  <a href="https://badges.strrl.dev">
+    <img 
+      alt="GitHub Repositories" 
+      src="https://badges.strrl.dev/repos/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
+    />
+  </a>
+
 </div>
+
 
 </br></br>
 
@@ -240,11 +268,6 @@
 
 </div>
 
-</br></br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=farheen-shaikh530&theme=darkhub&no-frame=true&column=10">
-</a>
 
 </br></br>
 
