@@ -167,6 +167,27 @@
   <code><img title="Spring Boot" alt="Spring Boot" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
   <code><img title="Apache Kafka" alt="Kafka" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /></code>
   <code><img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+   <code><img title="Hadoop" alt="Hadoop" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /></code>
+  <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
+  <code><img title="Databricks" alt="Databricks" width="45px" src="https://raw.githubusercontent.com/databricks/brand/main/logos/mark/solid/DatabricksMark.svg" /></code>
+
+</p>
+</br>
+
+<h2>⚛️ Where My Curiosity Meets AI Research & Learning Systems</h2>
+
+<p align="left">
+
+   <code><img title="Keras" alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
+  <code><img title="NumPy" alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
+  <code><img title="scikit-learn" alt="scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
+  <code><img title="TensorFlow" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+  <code><img title="LangChain" alt="LangChain" width="40px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" /></code>
+  <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
+  <code><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
+  <code><img title="GPT / OpenAI" alt="GPT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" /></code>
+ <code> <img title="LLaMA (Meta AI)" alt="LLaMA" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.png" /> </code>
+
 </p>
 
 </br></br>
