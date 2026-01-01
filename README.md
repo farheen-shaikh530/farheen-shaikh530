@@ -185,8 +185,7 @@
   <code><img title="LangChain" alt="LangChain" width="40px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" /></code>
   <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
   <code><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
-  <code><img title="GPT / OpenAI" alt="GPT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" /></code>
- <code> <img title="LLaMA (Meta AI)" alt="LLaMA" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.png" /> </code>
+  <code><img title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
 
 </p>
 
