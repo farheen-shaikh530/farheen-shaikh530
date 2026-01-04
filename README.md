@@ -219,12 +219,11 @@
 
 :key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
 
+</br>
 
 <h2>:octocat: My GitHub Activity</h2>
 <div>
     <div align="center">
-
-
 
   <!-- Commit Badges -->
   <a href="https://badges.strrl.dev">
@@ -265,22 +264,20 @@
 </div>
 
 
-</br></br>
-
-<!-- 💜 Purple Streak Graph -->
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="animated divider" width="100%"/>
-</p>
-
-<br/>
-<!-- 💫 Purple Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farheen-shaikh530&area=true&hide_border=true&bg_color=000&line=7D3C98&point=BA68C8&color=B388EB&area_color=7D3C98&custom_title=Farheen%20Shaikh's%20Active%20Commits" width="100%">
-</a>
- 
+</br>
 
 </div>
+</br>
+
+<h2>📅 GitHub Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2DA44E/farheen-shaikh530"
+    alt="GitHub Contributions Chart"
+    width="100%"
+  />
+</p>
 
 
 </br></br>
