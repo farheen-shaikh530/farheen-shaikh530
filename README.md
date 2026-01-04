@@ -223,7 +223,7 @@
 
 <h2>:octocat: My GitHub Activity</h2>
 <div>
-    <div align="center">
+    <div align="left">
 
   <!-- Commit Badges -->
   <a href="https://badges.strrl.dev">
