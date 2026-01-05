@@ -222,54 +222,8 @@
 </br>
 
 <h2>:octocat: My GitHub Activity</h2>
-<div>
-    <div align="left">
-
-  <!-- Commit Badges -->
-  <a href="https://badges.strrl.dev">
-    <img 
-      alt="Commits Today" 
-      src="https://badges.strrl.dev/commits/daily/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
-    />
-  </a>
-
-  <a href="https://badges.strrl.dev">
-    <img 
-      alt="Commits This Week" 
-      src="https://badges.strrl.dev/commits/weekly/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
-    />
-  </a>
-
-  <a href="https://badges.strrl.dev">
-    <img 
-      alt="Commits This Month" 
-      src="https://badges.strrl.dev/commits/monthly/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
-    />
-  </a>
-
-  <a href="https://badges.strrl.dev">
-    <img 
-      alt="All Commits" 
-      src="https://badges.strrl.dev/commits/all/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
-    />
-  </a>
-
-  <a href="https://badges.strrl.dev">
-    <img 
-      alt="GitHub Repositories" 
-      src="https://badges.strrl.dev/repos/farheen-shaikh530?style=for-the-badge&color=181717&labelColor=7D3C98"
-    />
-  </a>
-
-</div>
-
-
+  
 </br>
-
-</div>
-</br>
-
-<h2>📅 GitHub Contributions</h2>
 
 <p align="center">
   <img
