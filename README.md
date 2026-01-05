@@ -163,8 +163,7 @@
   <code><img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
    <code><img title="Hadoop" alt="Hadoop" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /></code>
   <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
-  <code><img title="Databricks" alt="Databricks" width="45px" src="https://raw.githubusercontent.com/databricks/brand/main/logos/mark/solid/DatabricksMark.svg" /></code>
-
+<code>  <img title="Git" alt="Git"  width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </code>
 </p>
 </br>
 
