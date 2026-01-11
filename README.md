@@ -184,22 +184,20 @@
 
 </br></br>
 
-
-<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
-</br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+<h2>:notes: Now playing </h2>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+  <summary>🎬 Recent Videos</summary>
+
+  
+
+
 </details>
 
-<h3>:headphones: Albums I've listened to the most this week</h3>
-
-<!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Helloween/Keeper+Of+The+Seven+Keys,+Pt.+I+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a2463ffc38acae5ed1e0a7837dbe28a6.jpg" title="Helloween - Keeper Of The Seven Keys, Pt. I (Expanded Edition)"></a> </p>
-
 </br>
+
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
