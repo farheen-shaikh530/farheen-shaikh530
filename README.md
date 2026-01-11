@@ -184,17 +184,12 @@
 
 </br></br>
 
-<h2>:notes: Now playing </h2>
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<h2>🎶 Now playing </h2>
 
-<details>
-  <summary>🎬 Recent Videos</summary>
-
-  
-
-
-</details>
+<p>
+  🎧 <a href="https://www.youtube.com/playlist?list=PLYnE7cCYWq_Utq19xrWO5nWylkjf1lUhU">
+  Watch My YouTube Playlist</a>
+</p>
 
 </br>
 
