@@ -21,9 +21,6 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/farheen-shaikh530">
-  <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/farheen-shaikh530?style=for-the-badge&color=7D3C98&logo=github&logoColor=ffffff&label=@farheen-shaikh530" height="22px">
-</a>
 <a href="https://www.linkedin.com/in/farheen-shaikh0509/">
   <img alt="Link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/farheen-shaikh0509&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
