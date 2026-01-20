@@ -225,11 +225,6 @@
 
 </br></br>
 
-<details>
-    </br>
-    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
-</details>
-
  <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
 <h3> :star: My favorite GitHub Repos</h3>
