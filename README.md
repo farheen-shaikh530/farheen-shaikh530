@@ -185,7 +185,7 @@
 
 <p>
   🎧 <a href="https://www.youtube.com/playlist?list=PLYnE7cCYWq_Utq19xrWO5nWylkjf1lUhU">
-  Watch My YouTube Playlist</a>
+  MyPlaylist</a>
 </p>
 
 </br>
