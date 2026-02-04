@@ -39,72 +39,45 @@
 
 <table align="center">
   <tr>
-    <th>Project</th>
-    <th>Repo Info</th>
+    <th>Project Info</th>
   </tr>
 
   <tr>
   <td>⚛️ <a href="https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection" target="_blank">
     <b>Quantum Neural Network for Advance-Fee Fraud Detection</b>
   </a></td>
-  
-  <td align="center">
-    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/quantum-advance-Fee-Fraud-detection?color=F05032&logo=git" />
-  </td>
 </tr>
-
 
 <!-- RAG Pipeline for ReleaseGuard (In Progress) -->
 <tr>
-  <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLM-Abstain for Release Notes</b></a></td>
-  <td align="center">
-    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=F05032&logo=git" />
-  </td>
+  <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLM-Abstain for Release Notes</b></a></td> 
 </tr>
-
-
 
   <!-- Engage Metrics WebApp -->
  <tr>
   <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank">
-    <b>Personal Engage Metrics WebApp</b>
+    <b>Personal Engage Metrics Dashboard app</b>
   </a></td>
-  
-  <td align="center">
-    <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/engage-metrics-webapp?color=F05032&logo=git" />
-  </td>
 </tr>
 
   <!-- Global Course Mapping Tool -->
   <tr>
     <td>🗺️ <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool" target="_blank"><b>Global Course Mapping Tool</b></a></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/global-course-mapping-tool?color=F05032&logo=git" />
-    </td>
+
   </tr>
-
-
-
   <!-- Study Abroad Insight Hub for Office of Study Abroad -->
   <tr>
     <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Dashboard</b></a></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/study-abroad-insight-hub?color=F05032&logo=git" />
-    </td>
   </tr>
 
    <!-- Reinforcement Learning Email Case Study -->
   <tr>
     <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=F05032&logo=git" />
-    </td>
   </tr>
   
 </table>
-
-
 </br></br>
+
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <p align="left">
