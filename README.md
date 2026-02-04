@@ -40,7 +40,6 @@
 <table align="center">
   <tr>
     <th>Project</th>
-    <th>Tech Stack</th>
     <th>Repo Info</th>
   </tr>
 
@@ -48,16 +47,7 @@
   <td>⚛️ <a href="https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection" target="_blank">
     <b>Quantum Neural Network for Advance-Fee Fraud Detection</b>
   </a></td>
-  <td>
-    <code>Quantum Neural Network (QNN)</code> ·
-    <code>Scikit-learn</code> ·
-    <code>Matplotlib</code> ·
-    <code>NumPy</code> ·
-    <code>Pandas</code> ·
-    <code>Logistic Regression</code> ·
-    <code>Support Vector Machine (SVM)</code> ·
-    <code>Neural Network (MLP)</code>
-  </td>
+  
   <td align="center">
     <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/quantum-advance-Fee-Fraud-detection?color=F05032&logo=git" />
   </td>
@@ -67,7 +57,6 @@
 <!-- RAG Pipeline for ReleaseGuard (In Progress) -->
 <tr>
   <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLM-Abstain for Release Notes</b></a></td>
-  <td><code>Python</code> · <code>LangChain</code> · <code>FAISS</code> · <code>OpenAI API</code> · <code>Streamlit</code></td>
   <td align="center">
     <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=F05032&logo=git" />
   </td>
@@ -80,15 +69,7 @@
   <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank">
     <b>Personal Engage Metrics WebApp</b>
   </a></td>
-  <td>
-    <code>React</code> ·
-    <code>FastAPI</code> ·
-    <code>Kafka</code> ·
-    <code>Redis</code> ·
-    <code>Microsoft Azure Entra ID</code> ·
-    <code>When2Work API</code> ·
-    <code>Google Calendar API</code>
-  </td>
+  
   <td align="center">
     <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/engage-metrics-webapp?color=F05032&logo=git" />
   </td>
@@ -97,7 +78,6 @@
   <!-- Global Course Mapping Tool -->
   <tr>
     <td>🗺️ <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool" target="_blank"><b>Global Course Mapping Tool</b></a></td>
-    <td><code>React</code> · <code>Firebase</code> · <code>Google Sheets API</code> · <code>TailwindCSS</code></td>
     <td align="center">
       <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/global-course-mapping-tool?color=F05032&logo=git" />
     </td>
@@ -108,7 +88,6 @@
   <!-- Study Abroad Insight Hub for Office of Study Abroad -->
   <tr>
     <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Dashboard</b></a></td>
-    <td><code>React</code> · <code>MongoDB</code> · <code>Express</code> · <code>Node.js</code></td>
     <td align="center">
       <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/study-abroad-insight-hub?color=F05032&logo=git" />
     </td>
@@ -117,7 +96,6 @@
    <!-- Reinforcement Learning Email Case Study -->
   <tr>
     <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
-    <td><code>Python</code> · <code>RLlib</code> · <code>OpenAI Gym</code> · <code>Matplotlib</code></td>
     <td align="center">
       <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/reinforcement-learning-email_CaseStudy?color=F05032&logo=git" />
     </td>
