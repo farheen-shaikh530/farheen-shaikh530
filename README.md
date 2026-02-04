@@ -66,7 +66,7 @@
 
 <!-- RAG Pipeline for ReleaseGuard (In Progress) -->
 <tr>
-  <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLm Abstain for Release Notes</b></a></td>
+  <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLM-Abstain for Release Notes</b></a></td>
   <td><code>Python</code> · <code>LangChain</code> · <code>FAISS</code> · <code>OpenAI API</code> · <code>Streamlit</code></td>
   <td align="center">
     <img src="https://img.shields.io/github/last-commit/farheen-shaikh530/RAG-Pipeline-for-ReleaseGuard?color=F05032&logo=git" />
