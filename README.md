@@ -116,14 +116,17 @@
 
 <p align="left">
 
-   <code><img title="Keras" alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
-  <code><img title="NumPy" alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
   <code><img title="scikit-learn" alt="scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
   <code><img title="TensorFlow" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
   <code><img title="LangChain" alt="LangChain" width="40px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" /></code>
   <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
   <code><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
   <code><img title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
+
+
+
+
+
 
 </p>
 
