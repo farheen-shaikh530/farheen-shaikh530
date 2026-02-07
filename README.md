@@ -70,10 +70,7 @@
     <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Dashboard</b></a></td>
   </tr>
 
-   <!-- Reinforcement Learning Email Case Study -->
-  <tr>
-    <td>🤖 <a href="https://github.com/farheen-shaikh530/reinforcement-learning-email_CaseStudy" target="_blank"><b>Reinforcement Learning Email Case Study</b></a></td>
-  </tr>
+
   
 </table>
 </br></br>
