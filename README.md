@@ -127,15 +127,6 @@
 
 </br></br>
 
-<h2>🎶 Now playing </h2>
-
-<p>
-  🎧 <a href="https://www.youtube.com/playlist?list=PLYnE7cCYWq_Utq19xrWO5nWylkjf1lUhU">
-  MyPlaylist</a>
-</p>
-
-</br>
-
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
