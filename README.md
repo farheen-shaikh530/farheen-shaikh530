@@ -135,13 +135,7 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-<h2>:zany_face: Joke of the day</h2>
-<details>
-    <summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
+
 
 :key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
 
