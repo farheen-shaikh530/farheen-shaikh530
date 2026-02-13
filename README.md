@@ -1,3 +1,4 @@
+
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
@@ -21,17 +22,20 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/farheen-shaikh0509/">
-  <img alt="Link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/farheen-shaikh0509&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-<a href="https://x.com/FarheenSS05">
-  <img alt="Link to my X (Twitter)" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@FarheenSS05&color=000000&logo=x" height="22px">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-</a>
+
 <a href="mailto:farheen.s.shaikh05@gmail.com">
-  <img alt="Send me an email" src="https://img.shields.io/static/v1?label&message=farheen.s.shaikh05@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail&logoColor=D14836" height="22px" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+
+
+</p>
+
 
 </br></br>
 
