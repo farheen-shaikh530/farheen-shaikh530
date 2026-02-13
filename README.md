@@ -11,27 +11,32 @@
   </a>
 </div>
 
-<p align="center">
-  <h2>🌐 Languages That Shape My Voice</h2>
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README.md">English</a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ur.md">Urdu</a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">Hindi</a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-hi.md">Marathi</a> |
-  <a href="https://github.com/farheen-shaikh530/farheen-shaikh530/blob/main/README-ar.md">Arabic</a>
+
+
+<h2 align="left">🌐 Languages That Shape My Voice</h2>
+
+<p align="left">
+
+
+<img src="https://img.shields.io/badge/English-View-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Urdu-View-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hindi-View-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Marathi-View-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arabic-View-red?style=for-the-badge"/>
+
+
 </p>
 
+</br>
 
-<h2>:busts_in_silhouette: How to reach me</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/farheen-shaikh0509/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-
+<h2>:busts_in_silhouette: To reach me</h2> 
 <a href="mailto:farheen.s.shaikh05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail">
 </a>
-
 
 
 </p>
