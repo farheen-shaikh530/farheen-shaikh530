@@ -18,15 +18,11 @@
 <p align="left">
 
 
-<img src="https://img.shields.io/badge/English-View-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Urdu-View-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hindi-View-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Marathi-View-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Arabic-View-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Urdu-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hindi-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marathi-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arabic-red?style=for-the-badge"/>
 
 
 </p>
@@ -35,7 +31,7 @@
 
 <h2>:busts_in_silhouette: To reach me</h2> 
 <a href="mailto:farheen.s.shaikh05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
 </a>
 
 
