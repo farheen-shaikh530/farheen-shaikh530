@@ -35,44 +35,14 @@
 
 </br></br>
 
-<h2>🚀 Flagship Projects</h2>
+## 🚀 Projects
 
-<table align="center">
-  <tr>
-    <th>Project Info</th>
-  </tr>
+- ⚛️ [Quantum Neural Network for Advance-Fee Fraud Detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
+- 🛠️ [LLM-Abstain for Release Notes](https://github.com/farheen-shaikh530/LLM-Abstain)
+- 📊 [Personal Engage Metrics Dashboard App](https://github.com/farheen-shaikh530/engage-metrics-webapp)
+- 🗺️ [Global Course Mapping Tool](https://github.com/farheen-shaikh530/global-course-mapping-tool)
+- 🌍 [Study Abroad Insight Dashboard](https://github.com/farheen-shaikh530/study-abroad-insight-hub)
 
-  <tr>
-  <td>⚛️ <a href="https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection" target="_blank">
-    <b>Quantum Neural Network for Advance-Fee Fraud Detection</b>
-  </a></td>
-</tr>
-
-<!-- RAG Pipeline for ReleaseGuard (In Progress) -->
-<tr>
-  <td>🛠️ <a href="https://github.com/farheen-shaikh530/LLM-Abstain" target="_blank"><b>LLM-Abstain for Release Notes</b></a></td> 
-</tr>
-
-  <!-- Engage Metrics WebApp -->
- <tr>
-  <td>📊 <a href="https://github.com/farheen-shaikh530/engage-metrics-webapp" target="_blank">
-    <b>Personal Engage Metrics Dashboard app</b>
-  </a></td>
-</tr>
-
-  <!-- Global Course Mapping Tool -->
-  <tr>
-    <td>🗺️ <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool" target="_blank"><b>Global Course Mapping Tool</b></a></td>
-
-  </tr>
-  <!-- Study Abroad Insight Hub for Office of Study Abroad -->
-  <tr>
-    <td>🌍 <a href="https://github.com/farheen-shaikh530/study-abroad-insight-hub" target="_blank"><b>Study Abroad Insight Dashboard</b></a></td>
-  </tr>
-
-
-  
-</table>
 </br></br>
 
 
@@ -161,6 +131,9 @@
 <h3> :star: My favorite GitHub Repos</h3>
 See <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool">here</a> a list of the awesome repositories I've starred! List updates daily.
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+
+
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
