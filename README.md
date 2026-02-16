@@ -29,7 +29,7 @@
 
 </br>
 
-<h2>:busts_in_silhouette: To reach me</h2> 
+<h2>:busts_in_silhouette: How to reach me</h2> 
 <a href="mailto:farheen.s.shaikh05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
 </a>
@@ -112,9 +112,11 @@
 </details>
 
 
+</br>
+</br>
+
 :key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
 
-</br>
 
 <h2>:octocat: My GitHub Activity</h2>
   
