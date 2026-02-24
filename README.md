@@ -161,11 +161,9 @@
 
  <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
-<h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/farheen-shaikh530/global-course-mapping-tool">here</a> a list of the awesome repositories I've starred! List updates daily.
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<h3>⭐ My Favorite GitHub Repositories</h3>
 
-
+See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories I've starred.
 
 
 <h2>:book: Guestbook</h2>
