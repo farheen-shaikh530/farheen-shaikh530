@@ -40,6 +40,35 @@
 
 </br></br>
 
+
+
+
+
+
+<details open>
+ <summary><b> 📝Research Publications</b></summary>
+
+### 1) Evaluating the Efficacy of Quantum Machine Learning at Detecting Advance-Fee Fraud Attacks
+- **Authors:** Farheen Shaikh, et al.  
+- **Published in:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
+- **Research Area:** Quantum Machine Learning · Fraud Detection · Cybersecurity  
+- 🔗 **Links:** [arXiv](LINK)
+
+---
+
+### 2) A Hallucination-Resistant RAG System for Software Update Related Prompts
+- **Authors:** Farheen Shaikh, et al.  
+- **Published in:** 9th International Conference on Emerging Data and Industry  
+- **Research Area:** Retrieval-Augmented Generation (RAG) · LLM Reliability · Software Engineering  
+- 🔗 **Links:** [arXiv](LINK)
+
+</details>
+
+
+
+</br></br>
+
+
 ## 🚀 Projects
 
 > ⚛️ [Quantum Neural Network for Advance-Fee Fraud Detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
