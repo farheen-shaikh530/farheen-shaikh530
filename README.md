@@ -1,12 +1,8 @@
-
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=520&lines=I'm+Farheen;She%2Fher%2Fhers;Computer+Science+Graduate+Student;Full-Stack+%26+Data+Systems+Developer;AI+%26+ML+Researcher;
-      alt="Farheen – Computer Science Graduate Student, Full Stack and Data Systems Developer"
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=520&pause=1000&repeat=true&lines=I'm+Farheen;She%2Fher%2Fhers;Computer+Science+Graduate+Student;AI+%26+Automation%20and%20HPC+Developer;AI+%26+ML+Researcher;"
+      alt="Farheen – Computer Science Graduate Student, Full Stack, AI & Automation Developer"
     />
   </a>
 </div>
@@ -158,6 +154,14 @@
 
 
 </br></br>
+<div align="center">
+
+
+
+</div>
+
+
+
 
  <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
