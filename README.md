@@ -66,9 +66,6 @@
 
 - ⚛️ [Quantum Neural Network for Advance-Fee Fraud Detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
 - 🛠️ [LLM-Abstain for Release Notes](https://github.com/farheen-shaikh530/llm-abstain.v1)
-- 📊 [Personal Engage Metrics Dashboard App](https://github.com/farheen-shaikh530/engage-metrics-webapp)
-- 🗺️ [Global Course Mapping Tool](https://github.com/farheen-shaikh530/global-course-mapping-tool)
-- 🌍 [Study Abroad Insight Dashboard](https://github.com/farheen-shaikh530/study-abroad-insight-hub)
 
 </br></br>
 
