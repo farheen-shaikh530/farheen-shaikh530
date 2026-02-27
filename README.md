@@ -47,7 +47,7 @@
 
 - **Authors:** Farheen Shaikh, et al.  
 - **Published in:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
-- 🔗 **Links:** Coming soon
+- 🔗 **Links:** In March 2026
 
 ---
 
@@ -57,7 +57,7 @@
 
 - **Authors:** Farheen Shaikh, et al.  
 - **Published in:** 9th International Conference on Emerging Data and Industry  
-- 🔗 **Links:** Coming soon
+- 🔗 **Links:** In April 2026
 
 
 </br></br>
