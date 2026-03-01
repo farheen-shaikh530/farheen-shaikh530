@@ -40,24 +40,19 @@
 
 ## 📝 Research Publications
 
-### 1) Evaluating the Efficacy of Quantum Machine Learning at Detecting Advance-Fee Fraud Attacks  
-![IEEE](https://img.shields.io/badge/IEEE-Conference-00629B?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2026-7E3ACE?style=for-the-badge)
-![Area](https://img.shields.io/badge/QML-Social%20Engineering%20Fraud%20Detection-2DA44E?style=for-the-badge)
+
+### 1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks  
 
 - **Authors:** Farheen Shaikh, et al.  
-- **Published in:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
-- 🔗 **Links:** In March 2026
+- **Conference:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
+- 🔗 **Links:** To be available in March 2026  
 
 ---
 
-### 2) A Hallucination-Resistant RAG System for Software Update Related Prompts  
-![Conference](https://img.shields.io/badge/Conference-ICEDI-0A66C2?style=for-the-badge)
-![Area](https://img.shields.io/badge/RAG-LLM%20Hallucination-FF7A00?style=for-the-badge)
-
+### 2) A Hallucination-Resistant RAG System for Software Update–Related Prompts  
 - **Authors:** Farheen Shaikh, et al.  
-- **Published in:** 9th International Conference on Emerging Data and Industry  
-- 🔗 **Links:** In April 2026
+- **Conference:** 9th International Conference on Emerging Data and Industry (ICEDI 2026)  
+- 🔗 **Links:** To be available in April 2026  
 
 
 </br></br>
