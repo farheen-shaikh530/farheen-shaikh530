@@ -37,30 +37,21 @@
 </br></br>
 
 
+## 🧠 Research & Flagship Project Systems
 
-## 📝 Research Publications
-
-
-### 1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks  
-
+**1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Authors:** Farheen Shaikh, et al.  
 - **Conference:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
-- 🔗 **Links:** To be available in March 2026  
+- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
+- 📄 **Paper Link:** To be available in March 2026  
 
 ---
 
-### 2) A Hallucination-Resistant RAG System for Software Update–Related Prompts  
+**2) A Hallucination-Resistant RAG System for Release Note **  
 - **Authors:** Farheen Shaikh, et al.  
 - **Conference:** 9th International Conference on Emerging Data and Industry (ICEDI 2026)  
-- 🔗 **Links:** To be available in April 2026  
-
-
-</br></br>
-
-## 🚀 My Flagship Projects
-
-- ⚛️ [Quantum Neural Network for Advance-Fee Fraud Detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
-- 🛠️ [Release Note Multi-Agent Framework]( https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework )
+- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework  
+- 📄 **Paper Link:** To be available in April 2026
 
 </br></br>
 
