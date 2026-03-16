@@ -145,13 +145,33 @@
 
 
 
-
  <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
 <h3>⭐ My Favorite GitHub Repositories</h3>
 
 See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories I've starred.
 
+</br></br>
+
+## 🏆 Honors & Awards
+
+### 🌟 Norm Allen Outstanding Student Leader Award  
+**Faith and Davies Awards – University of the Pacific**
+
+Recognized as an **Associated Students of the University of the Pacific (ASUOP) officer** for leadership, service, and contributions to the students life, campus projects discussions and  budget allocations.  
+
+---
+
+### 🌟 Women of Distinction Award – Champion of Change  
+
+Honored with the **Women of Distinction Award – Champion of Change**, recognizing resilience, leadership, and commitment to creating meaningful impact through project that impact women's health and safety.
+
+</br>
+
+
+🚀 *Onward and upward!*
+
+</br>
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
