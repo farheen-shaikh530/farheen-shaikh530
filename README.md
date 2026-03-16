@@ -47,7 +47,7 @@
 
 ---
 
-**2) A Hallucination-Resistant RAG System for Release Note **  
+**2) A Hallucination-Resistant RAG System for Release Note**
 - **Authors:** Farheen Shaikh, et al.  
 - **Conference:** 9th International Conference on Emerging Data and Industry (ICEDI 2026)  
 - 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework  
