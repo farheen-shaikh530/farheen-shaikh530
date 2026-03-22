@@ -156,13 +156,14 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 ## 🏆 Honors & Awards
 
 ### 🌟 Norm Allen Outstanding Student Leader Award  
-**Faith and Davies Awards – University of the Pacific**
+**Faith and Davies Awards 2025 – University of the Pacific**
 
-Recognized as an **Associated Students of the University of the Pacific (ASUOP) officer** for leadership, service, and contributions to the students life, campus projects discussions and  budget allocations.  
+Recognized as an **Associated Students of the University of the Pacific (ASUOP) officer** for leadership, service, and contributions to the students life, campus projects and budget discuss allocations.  
 
 ---
 
 ### 🌟 Women of Distinction Award – Champion of Change  
+**International Women's Day 2025 – University of the Pacific**
 
 Honored with the **Women of Distinction Award – Champion of Change**, recognizing resilience, leadership, and commitment to creating meaningful impact through project that impact women's health and safety.
 
