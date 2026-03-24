@@ -41,17 +41,19 @@
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
-- **Conference:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference  
+- **Conference:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference
+-  **Status:** Presented in conference
 - 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
-- 📄 **Paper Link:** To be available in March 2026  
+- 📄 **Paper Link:** It will be available in April 2026
 
 ---
 
 **2) A Hallucination-Resistant RAG System for Release Note**
 - **Author:** Farheen Shaikh 
-- **Conference:** 9th International Conference on Emerging Data and Industry (ICEDI 2026)  
-- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework  
-- 📄 **Paper Link:** To be available in April 2026
+- **Conference:** 9th International Conference on Emerging Data and Industry
+- **Status:** Accepted
+- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework
+- 📄 **Paper Link:** It will be available in May 2026
 
 </br></br>
 
