@@ -41,7 +41,7 @@
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
-- **Conference:** 2026 IEEE Annual Region 3 Technical, Professional, and Student Conference
+- **Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 -  **Status:** Presented in conference
 - 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
 - 📄 **Paper Link:** It will be available in April 2026
