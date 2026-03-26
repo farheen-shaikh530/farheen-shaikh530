@@ -159,7 +159,7 @@ Recognized as an **Associated Students of the University of the Pacific (ASUOP) 
 ### 🌟 Women of Distinction Award – Champion of Change  
 **International Women's Day 2025 – University of the Pacific**
 
-Honored with the **Women of Distinction Award – Champion of Change**, recognizing resilience, leadership, and commitment to creating meaningful impact through projects involve health and safety in benefits to gender identity and inclusion.
+Honored with the **Women of Distinction Award – Champion of Change**, recognizing leadership and commitment to creating meaningful impact through projects involve health and safety in benefits to gender identity and inclusion.
 
 </br>
 
@@ -168,8 +168,8 @@ Honored with the **Women of Distinction Award – Champion of Change**, recogniz
 </br>
 
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
-<p>Or ask me anything at <a href="https://github.com/discussions">Discussions</a>!</p>
+<p>Leave a cool message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a> or ask me anything at <a href="https://github.com/discussions">Discussions</a>!
+</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
