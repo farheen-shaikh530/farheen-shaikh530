@@ -103,12 +103,9 @@
   <code><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
   <code><img title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
 
-
-
 </p>
 
 </br></br>
-
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
@@ -118,12 +115,10 @@
     </a>
 </details>
 
-
 </br>
 </br>
 
 :key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
-
 
 <h2>:octocat: My GitHub Activity</h2>
   
@@ -137,11 +132,8 @@
   />
 </p>
 
-
 </br></br>
 <div align="center">
-
-
 
 </div>
 
@@ -157,7 +149,7 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 ## 🏆 Honors & Awards
 
-### 🌟 Norm Allen Outstanding Student Leader Award  
+### 🌟 Norm Allen Outstanding Student Leader Award 
 **Faith and Davies Awards 2025 – University of the Pacific**
 
 Recognized as an **Associated Students of the University of the Pacific (ASUOP) officer** for leadership, service, and contributions to the students life, campus projects and budget discuss allocations.  
@@ -167,10 +159,9 @@ Recognized as an **Associated Students of the University of the Pacific (ASUOP) 
 ### 🌟 Women of Distinction Award – Champion of Change  
 **International Women's Day 2025 – University of the Pacific**
 
-Honored with the **Women of Distinction Award – Champion of Change**, recognizing resilience, leadership, and commitment to creating meaningful impact through project that impact women's health and safety.
+Honored with the **Women of Distinction Award – Champion of Change**, recognizing resilience, leadership, and commitment to creating meaningful impact through projects involve health and safety in benefits to gender identity and inclusion.
 
 </br>
-
 
 🚀 *Onward and upward!*
 
@@ -185,6 +176,7 @@ Honored with the **Women of Distinction Award – Champion of Change**, recogniz
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
+
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
