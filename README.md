@@ -43,17 +43,17 @@
 - **Author:** Farheen Shaikh
 - **Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 -  **Status:** Presented in-person conference
-- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
-- 📄 **Paper Link:** It will be available in April 2026
+- 🔗 **Implementation :**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
+- 📄 **Paper Link:** To be available in April 2026
 
 ---
 
 **2) A Hallucination-Resistant RAG System for Release Note**
 - **Author:** Farheen Shaikh 
-- **Conference:** The 9th International Conference on Emerging Data and Industry
+- **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Status:** Accepted
-- 🔗 **Implementation Repository:**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework
-- 📄 **Paper Link:** It will be available in May 2026
+- 🔗 **Implementation :**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework
+- 📄 **Paper Link:** To be available in May 2026
 
 </br></br>
 
