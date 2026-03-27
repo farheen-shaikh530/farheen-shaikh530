@@ -137,8 +137,6 @@
 
 </div>
 
-
-
  <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
 <h3>⭐ My Favorite GitHub Repositories</h3>
@@ -149,23 +147,32 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 ## 🏆 Honors & Awards
 
-### 🌟 Norm Allen Outstanding Student Leader Award 
-**Faith and Davies Awards 2025 – University of the Pacific**
+### 🌟 Norms & Allen Outstanding Student Leader Award 
+### 🌟 Women of Distinction Award – Champion of Change
 
-Recognized as an **Associated Students of the University of the Pacific (ASUOP) officer** for leadership, service, and contributions to the students life, campus projects and budget discuss allocations.  
-
----
-
-### 🌟 Women of Distinction Award – Champion of Change  
-**International Women's Day 2025 – University of the Pacific**
-
-Honored with the **Women of Distinction Award – Champion of Change**, recognizing leadership and commitment to creating meaningful impact through projects involve health and safety that contribute toward gender inclusion.
 
 </br>
 
 🚀 *Onward and upward!*
 
 </br>
+
+<details open>
+
+  
+<summary>✨ YOUR NETWORK IS YOUR NET WORTH - FROM COLLEGIATE TO PROFESSIONAL MEMBERSHIPS</summary>
+<br>
+ **NSBE — National Society of Black Engineers**  
+<br>
+ **IEEE — Institute of Electrical and Electronics Engineers**  
+<br>
+**ACM — Association for Computing Machinery**  
+<br>
+</details>
+
+
+
+
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a> or ask me anything at <a href="https://github.com/discussions">Discussions</a>!
