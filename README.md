@@ -44,7 +44,7 @@
 - **Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 -  **Status:** Presented in-person conference
 - 🔗 **Implementation :**  https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection  
-- 📄 **Paper Link:** To be available in April 2026
+- 📄 **Publication:** To be available in April 2026
 
 ---
 
@@ -53,7 +53,7 @@
 - **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Status:** Accepted
 - 🔗 **Implementation :**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework
-- 📄 **Paper Link:** To be available in May 2026
+- 📄 **Publication:** To be available in May 2026
 
 </br></br>
 
