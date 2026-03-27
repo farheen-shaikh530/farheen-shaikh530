@@ -159,7 +159,7 @@ Recognized as an **Associated Students of the University of the Pacific (ASUOP) 
 ### 🌟 Women of Distinction Award – Champion of Change  
 **International Women's Day 2025 – University of the Pacific**
 
-Honored with the **Women of Distinction Award – Champion of Change**, recognizing leadership and commitment to creating meaningful impact through projects involve health and safety thart contribute to gender inclusion.
+Honored with the **Women of Distinction Award – Champion of Change**, recognizing leadership and commitment to creating meaningful impact through projects involve health and safety that contribute toward gender inclusion.
 
 </br>
 
