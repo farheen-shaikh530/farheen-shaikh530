@@ -58,7 +58,7 @@
 </br></br>
 
 
-<h2>:bulb: Languages & Frameworks I code in</h2>
+<h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
   <code><img title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
   <code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -71,7 +71,7 @@
 
 </br>
 
-<h2>:hammer_and_wrench: Things That Help Me Get My Code Done</h2>
+<h2>:hammer_and_wrench: Things That Help Me Get Code Done</h2>
 
 <p align="left">
   <code><img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
@@ -92,7 +92,7 @@
 </p>
 </br>
 
-<h2>⚛️ Where My Curiosity Meets AI Research & Learning Systems</h2>
+<h2>⚛️ Curiosity for AI Research & Learning Systems</h2>
 
 <p align="left">
 
@@ -118,9 +118,9 @@
 </br>
 </br>
 
-:key: My GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
+:key: GPG Public Key: [`FAF60EFFCB4715C`](https://github.com/farheen-shaikh530.gpg)
 
-<h2>:octocat: My GitHub Activity</h2>
+<h2>:octocat: GitHub Activity</h2>
   
 </br>
 
@@ -137,9 +137,9 @@
 
 </div>
 
- <p>Also, check my leetcode profile <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
+ <p> leetcode~~ <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
 
-<h3>⭐ My Favorite GitHub Repositories</h3>
+<h3>⭐ Favorite GitHub Repositories</h3>
 
 See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories I've starred.
 
@@ -150,14 +150,13 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 ### 🌟 Norms & Allen Outstanding Student Leader Award 
 ### 🌟 Women of Distinction Award – Champion of Change
 
-
 </br>
 
 🚀 *Onward and upward!*
 
 </br>
 
-<details open>
+<details close>
 
   
 <summary>✨ YOUR NETWORK IS YOUR NET WORTH - FROM COLLEGIATE TO PROFESSIONAL MEMBERSHIPS</summary>
@@ -171,11 +170,8 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 </details>
 
 
-
-
-
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a> or ask me anything at <a href="https://github.com/discussions">Discussions</a>!
+<p>Leave a cool message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!
 </p>
 
 <div align="center">
