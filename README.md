@@ -159,7 +159,7 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 <details close>
 
   
-<summary>✨ YOUR NETWORK IS YOUR NET WORTH - FROM COLLEGIATE TO PROFESSIONAL MEMBERSHIPS</summary>
+<summary>✨ YOUR NETWORK IS YOUR NET WORTH - COLLEGIATE TO PROFESSIONAL</summary>
 <br>
  **NSBE — National Society of Black Engineers**  
 <br>
