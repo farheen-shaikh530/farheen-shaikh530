@@ -147,8 +147,9 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 ## 🏆 Honors & Awards
 
-### 🌟 Norms & Allen Outstanding Student Leader Award 
-### 🌟 Women of Distinction Award – Champion of Change
+####  Women of Distinction Award – Champion of Change
+####  Norms & Allen Outstanding Student Leader Award 
+
 
 </br>
 
@@ -159,13 +160,13 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 <details close>
 
   
-<summary>✨ YOUR NETWORK IS YOUR NET WORTH - COLLEGIATE TO PROFESSIONAL</summary>
+<summary>✨ YOUR NETWORK IS NET WORTH - COLLEGIATE TO PROFESSIONAL</summary>
 <br>
- **NSBE — National Society of Black Engineers**  
+- National Society of Black Engineers (NSBE) 
 <br>
- **IEEE — Institute of Electrical and Electronics Engineers**  
+- Institute of Electrical and Electronics Engineers (IEEE)
 <br>
-**ACM — Association for Computing Machinery**  
+- Association for Computing Machinery (ACM)
 <br>
 </details>
 
