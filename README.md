@@ -147,11 +147,13 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 ## 🏆 Honors & Awards
 
-####  Women of Distinction Award – Champion of Change
-####  Norms & Allen Outstanding Student Leader Award 
+####  ~ Women of Distinction Award – Champion of Change ~
+#### ~ Norms & Allen Outstanding Student Leader Award ~
 
 
 </br>
+
+
 
 🚀 *Onward and upward!*
 
