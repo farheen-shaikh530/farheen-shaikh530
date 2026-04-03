@@ -60,7 +60,7 @@
 </br></br>
 
 
-<h2>:bulb: Languages & Frameworks</h2>
+<h2>:bulb: Languages And Frameworks</h2>
 <p align="left">
   <code><img title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
   <code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
