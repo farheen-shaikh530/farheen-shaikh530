@@ -39,7 +39,7 @@
 </br></br>
 
 
-## 🧠 Research & Flagship Projects
+## 🧠 End_To_End Development
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
@@ -143,11 +143,11 @@
 
 <h3>⭐ Favorite GitHub Repositories</h3>
 
-See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories I've starred.
+See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories.
 
 </br></br>
 
-## 🏆 Honors & Awards
+## 🏆 Honors And Awards
 
 ####  ~ Women of Distinction Award – Champion of Change ~
 #### ~ Norms & Allen Outstanding Student Leader Award ~
