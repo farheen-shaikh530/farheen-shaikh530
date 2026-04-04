@@ -3,7 +3,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=520&pause=1000&repeat=true&lines=Hello,+This+is+Farheen+Shaikh;Computer+Science+Graduate+Student;AI+And+Full+Stack+Developer;"
-  alt="Hello, This is Farheen Shaikh, Computer Science Graduate Student, AI And Full Stack Developer"
+  alt="Hello! This Is Farheen Shaikh, Computer Science Graduate Student, AI And Full Stack Developer"
 />
    
   </a>
