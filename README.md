@@ -54,7 +54,7 @@
 - **Author:** Farheen Shaikh 
 - **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Status:** Accepted
-- 🔗 **Implementation :**  https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework
+- 🔗 **Implementation :**  [https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework1)
 - 📄 **Publication:** To be available in May 2026
 
 </br></br>
