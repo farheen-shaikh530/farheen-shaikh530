@@ -60,7 +60,7 @@
 </br></br>
 
 
-<h2> Languages And Frameworks</h2>
+<h2> Programming Languages </h2>
 <p align="left">
   <code><img title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
   <code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -73,7 +73,7 @@
 
 </br>
 
-<h2> Things That Help Me Get Code Done</h2>
+<h2> Development Tool & Environments</h2>
 
 <p align="left">
   <code><img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
@@ -94,7 +94,7 @@
 </p>
 </br>
 
-<h2> Curiosity for AI Research & Learning Systems</h2>
+<h2> Data Analysis & Machine Learning </h2>
 
 <p align="left">
 
@@ -157,14 +157,14 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 
 
- *Onward and upward!*
+✨ *Onward and upward!*
 
 </br>
 
 <details close>
 
   
-<summary>✨ YOUR NETWORK IS NET WORTH - COLLEGIATE TO PROFESSIONAL</summary>
+<summary> Professional Memberships </summary>
 <br>
 - National Society of Black Engineers (NSBE) 
 <br>
