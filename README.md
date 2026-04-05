@@ -60,7 +60,7 @@
 </br></br>
 
 
-<h2>:bulb: Languages And Frameworks</h2>
+<h2> Languages And Frameworks</h2>
 <p align="left">
   <code><img title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
   <code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -73,7 +73,7 @@
 
 </br>
 
-<h2>:hammer_and_wrench: Things That Help Me Get Code Done</h2>
+<h2> Things That Help Me Get Code Done</h2>
 
 <p align="left">
   <code><img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
@@ -176,7 +176,7 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!
+<p>Leave a message say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!
 </p>
 
 <div align="center">
