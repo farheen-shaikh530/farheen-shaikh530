@@ -39,7 +39,7 @@
 </br></br>
 
 
-## 🧠 End_To_End Development
+## End_To_End Development
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
@@ -94,7 +94,7 @@
 </p>
 </br>
 
-<h2>⚛️ Curiosity for AI Research & Learning Systems</h2>
+<h2> Curiosity for AI Research & Learning Systems</h2>
 
 <p align="left">
 
@@ -147,7 +147,7 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 </br></br>
 
-## 🏆 Honors And Awards
+##  Honors And Awards
 
 ####  ~ Women of Distinction Award – Champion of Change ~
 #### ~ Norms & Allen Outstanding Student Leader Award ~
@@ -157,7 +157,7 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 
 
-🚀 *Onward and upward!*
+ *Onward and upward!*
 
 </br>
 
