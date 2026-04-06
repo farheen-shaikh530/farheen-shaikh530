@@ -39,7 +39,7 @@
 </br></br>
 
 
-## End_To_End Development
+## End_To_End Project Development
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
