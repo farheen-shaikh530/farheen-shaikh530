@@ -149,30 +149,24 @@ See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">her
 
 ##  Honors And Awards
 
-####  ~ Women of Distinction Award – Champion of Change ~
-#### ~ Norms & Allen Outstanding Student Leader Award ~
-
+####  ~ Women of Distinction Award – Champion of Change | March 2024 
+#### ~ Norms & Allen Outstanding Student Leader Award | January 2025 
 
 </br>
-
 
 
 ✨ *Onward and upward!*
 
 </br>
 
-<details close>
 
-  
-<summary> Professional Memberships </summary>
-<br>
-- National Society of Black Engineers (NSBE) 
-<br>
-- Institute of Electrical and Electronics Engineers (IEEE)
-<br>
-- Association for Computing Machinery (ACM)
-<br>
-</details>
+## Collegiate To Professional Community Memberships
+
+####  ~ Institute of Electrical and Electronics Engineers (IEEE) | September 2026 - Present 
+#### ~ Institute of Electrical and Electronics Engineers (IEEE)  | January 2025 - December 2025  
+#### ~ Association for Computing Machinery (ACM)  | January 2026 - Present 
+
+</br>
 
 
 <h2>:book: Guestbook</h2>
