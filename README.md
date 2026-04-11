@@ -39,7 +39,7 @@
 </br></br>
 
 
-##  Coursework > Research > Development > Conference
+##  My Selected Work
 
 **1) Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks**  
 - **Author:** Farheen Shaikh
