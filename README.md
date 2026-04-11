@@ -57,6 +57,27 @@
 - 🔗 **Implementation :**  [https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework1)
 - 📄 **Publication:** To be available in May 2026
 
+---
+
+**3) Indoor Light Notification System**
+- **Author:** Farheen Shaikh
+- **Description:** Upstream indoor light sensor data to a backend service, display room light status on a dashboard, and notify users if a light remains ON for more than 12 hours. Each component has a clear responsibility and communicates through well-defined interfaces.
+- 🔗 **Implementation:** https://github.com/farheen-shaikh530/IoT-Light-Sensor
+
+---
+
+**4) Course Mapping System**
+- **Author:** Farheen Shaikh
+- **Description:** Web application showing equivalent courses of University of the Pacific across all partner universities worldwide. Provides streamlined admission process.
+- 🔗 **Implementation:** https://github.com/farheen-shaikh530/Course_Recommendation_WebApp
+
+---
+
+**5) Study Abroad Engagement Dashboard**
+- **Author:** Farheen Shaikh
+- **Description:** Data storytelling dashboards for UOP Office of Global Education (Summer 2025). Visualizes Study Abroad participation across Fall, Spring, Summer and Faculty-Led Trips (2014-2025) to inform decisions on diversity, inclusion, and engagement.
+- 🔗 **Implementation:** https://github.com/farheen-shaikh530/High_Value_User_Segments_Dashboard
+
 </br></br>
 
 
