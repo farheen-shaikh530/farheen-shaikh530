@@ -153,21 +153,6 @@
 
 ---
 
-## Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| **7 roles incl. ASUOP** | University of the Pacific | Aug 2024 – Present |
-| **Digital Project Assistant** (Global Admission Office) | University of the Pacific | Jun 2025 – Aug 2025 |
-| **Machine Learning Expert** | Handshake | Jun 2025 – Dec 2025 |
-| **Software Developer** | Empronc Solutions Pvt. Ltd. | May 2022 – May 2024 |
-| **Support Engineer** | Allwave-AV Systems | Feb 2022 – May 2022 |
-| **Coding Instructor For K-12 Grades** | iCode School | Sep 2021 – Feb 2022 |
-
-</br>
-
----
-
 ##  Publications
 
 > Links will be available in May 2026
