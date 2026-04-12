@@ -33,9 +33,10 @@
 <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
+<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 
-
-</p>
 
 </br>
 
