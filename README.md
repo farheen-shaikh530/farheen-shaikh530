@@ -30,7 +30,7 @@
 <a href="mailto:farheen.s.shaikh05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
 </a>
-<a href="https://farheen-shaikh-portfolio.vercel.app/#blogs-standalone" target="_blank">
+<a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
