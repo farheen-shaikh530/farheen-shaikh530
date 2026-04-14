@@ -42,7 +42,7 @@
 
 ##  My Selected Work
 
-### Evaluating the Efficacy of Quantum Machine Learning in Detecting Advance-Fee Fraud Attacks
+### Implemented Quantum Machine Learning Model to Detecting Advance-Fee Fraud
 - **Author:** Farheen Shaikh
 - **Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 - **Tech Stack:**
@@ -50,7 +50,7 @@
 - 🔗 **Implementation:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
 ---
 
-### GenAI Release Note Intelligent System To Reduce Hallucination Through Abstention
+### Productionised GenAI Release Note Intelligent System To Mitigate Hallucination Through Abstention Mechanism
 - **Author:** Farheen Shaikh 
 - **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Tech Stack:**
@@ -58,7 +58,7 @@
 - 🔗 **Implementation:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
 ---
 
-### Real-Time Smart Ambient Light Monitoring System
+### Design MongoDB Based Real-Time Smart Ambient Light Monitoring Assistant
 - **Author:** Farheen Shaikh
 - **Tech Stack:**
   `Python` `MongoDB` `JSON` `JavaScript` `Render` `Heroku`
@@ -66,7 +66,7 @@
 
 ---
 
-### Personalized Course Recommendation Assistant
+### Design End-to-End Course Recommendation Agent
 - **Author:** Farheen Shaikh
 - **Tech Stack:**
   `React.js` `React Hooks` `CSS` `JavaScript` `JSON` `Netlify`
@@ -74,7 +74,7 @@
 
 ---
 
-### High-Value User Cluster Intelligence Tableau Dashboard
+### Designed SQL Dashboard For High-User Cluster Engagement
 - **Author:** Farheen Shaikh
 - **Tech Stack:**
   `Tableau` `SQL` `Microsoft Graph API`
