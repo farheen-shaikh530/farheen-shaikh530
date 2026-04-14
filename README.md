@@ -187,8 +187,6 @@
 
 </br>
 
-<p> leetcode~~ <a href="https://leetcode.com/u/fshaikh1/">here</a>!</p>
-
 <h3>⭐ Favorite GitHub Repositories</h3>
 
 See <a href="https://github.com/farheen-shaikh530?tab=stars" target="_blank">here</a> for a list of the awesome repositories.
