@@ -43,7 +43,6 @@
 ##  My Selected Work
 
 ### Implemented Quantum Machine Learning Model to Detecting Advance-Fee Fraud
-- **Author:** Farheen Shaikh
 - **Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 - **Tech Stack:**
   `Scikit-learn` `Python` `NumPy` `Matplotlib` `PennyLane` `Logistic Regression` `Neural Network` `Quantum Neural Network` `SVM` `Pandas`
@@ -51,7 +50,6 @@
 ---
 
 ### Productionised GenAI Release Note Intelligent System To Mitigate Hallucination Through Abstention Mechanism
-- **Author:** Farheen Shaikh 
 - **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Tech Stack:**
   `Python` `PyTorch` `TensorRT` `Claude` `Docker` `Triton` `SageMaker` `AgentCore` `S3` `Kubernetes` `Git`
@@ -59,7 +57,6 @@
 ---
 
 ### Design MongoDB Based Real-Time Smart Ambient Light Monitoring Assistant
-- **Author:** Farheen Shaikh
 - **Tech Stack:**
   `Python` `MongoDB` `JSON` `JavaScript` `Render` `Heroku`
 - 🔗 **Implementation:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
@@ -67,7 +64,6 @@
 ---
 
 ### Design End-to-End Course Recommendation Agent
-- **Author:** Farheen Shaikh
 - **Tech Stack:**
   `React.js` `React Hooks` `CSS` `JavaScript` `JSON` `Netlify`
 - 🔗 **Implementation:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
@@ -75,7 +71,6 @@
 ---
 
 ### Designed SQL Dashboard For High-User Cluster Engagement
-- **Author:** Farheen Shaikh
 - **Tech Stack:**
   `Tableau` `SQL` `Microsoft Graph API`
 - 🔗 **Implementation:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
