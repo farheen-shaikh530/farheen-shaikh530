@@ -84,17 +84,6 @@
 
 ---
 
-## Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Programming Languages** | `Python` `Java` `JavaScript` `C++` `C#` |
-| **Web Development** | `React.js` `TypeScript` `HTML/CSS` `Next.js` |
-| **Backend** | `Node.js` `NestJS` `.NET Core` `GraphQL` `REST APIs` `Microservices` `Spring Boot` |
-| **AI & Machine Learning** | `LangChain` `TensorRT` `PyTorch` `FAISS` `LangGraph` `Keras` `Scikit-learn` `TensorFlow` `HuggingFace` `AWS (Bedrock, SageMaker)` `MLFlow` `ChromaDB` `Vertex AI` |
-| **Cloud & DevOps** | `Docker` `Kubernetes` `Terraform` `Git` `Streamlit` `Netlify` `LangSmith` |
-| **Databases** | `MySQL` `PostgreSQL` `Cosmos DB` `MongoDB` `Cassandra` `Redis` |
-
 </br>
 
 <h2> Languages & Tools </h2>
@@ -139,10 +128,6 @@
 </br>
 </br>
 
-
-
-</br>
-
 ---
 
 ##  Publications
@@ -154,15 +139,6 @@
 
 </br>
 
----
-
-## Blogs
-
-- [Inference: The Real Bottleneck in AI Systems](https://www.linkedin.com/pulse/inference-real-bottleneck-ai-systems-farheen-shaikh-k8gvc)
-- [What is LLM Abstention? What Happens When AI Says "I Don't Know"](https://www.linkedin.com/pulse/what-llm-abstention-happens-work-when-ai-says-i-dont-know-shaikh-cto6c)
-- [AI vs Human Translators: Experienced Professionals vs Large Language Models](https://www.linkedin.com/pulse/ai-vs-human-translators-experienced-professionals-large-shaikh-gtx2c)
-
-</br>
 
 ---
 
