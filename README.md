@@ -56,7 +56,8 @@
 - 🔗 **Implementation:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
 ---
 
-### Design MongoDB Based Real-Time Smart Ambient Light Monitoring Assistant
+### Engineered ESP32 Sensor-Based Smart Light Detection & Monitoring System Using MongoDB
+
 - **Tech Stack:**
   `Python` `MongoDB` `JSON` `JavaScript` `Render` `Heroku`
 - 🔗 **Implementation:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
