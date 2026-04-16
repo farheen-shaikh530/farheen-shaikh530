@@ -108,7 +108,7 @@
   <code><img title="PostgreSQL" alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
   <code><img title="Redis" alt="Redis" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
   <code><img title="Hadoop" alt="Hadoop" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /></code>
-  <code><img title="Apache Spark" alt="Apache Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
+ 
   <code><img title="Terraform" alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
   <code><img title="scikit-learn" alt="scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
   <code><img title="TensorFlow" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
