@@ -64,7 +64,7 @@
 
 ---
 
-### Design End-to-End Course Recommendation Agent
+### Built End-to-End Course Recommendation Agent
 - **Tech Stack:**
   `React.js` `React Hooks` `CSS` `JavaScript` `JSON` `Netlify`
 - 🔗 **Implementation:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
