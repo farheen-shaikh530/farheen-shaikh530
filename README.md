@@ -49,7 +49,7 @@
 - 🔗 **Implementation:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
 ---
 
-### Productionised GenAI Release Note Intelligent System To Mitigate Hallucination Through Abstention Mechanism
+### Developed GenAI Release Note Intelligent System To Mitigate Hallucination Through Abstention Mechanism
 - **Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 - **Tech Stack:**
   `Python` `PyTorch` `TensorRT` `Claude` `Docker` `Triton` `SageMaker` `AgentCore` `S3` `Kubernetes` `Git`
