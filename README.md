@@ -67,7 +67,7 @@
 -  **Project Type:** Full-stack Project 
 - 🔗 **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
 -  **Skill Exposer:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
--  
+
 ---
 
 ### Designed SQL Dashboard For User Engagement Cluster
@@ -125,10 +125,8 @@
 
 ##  Publications
 
-> Links will be available in May 2026
-
-- 📄 **Quantum ML for Advance-Fee Fraud Detection** — IEEE SoutheastCon, Region 3 · 2026
-- 📄 **Hallucination-Resistant RAG for Release Notes** — 9th International Conference on Emerging Data & Industry 4.0 · 2026
+- 📄**Quantum ML for Advance-Fee Fraud Detection -** https://ieeexplore.ieee.org/document/11476481
+- 📄 **Hallucination-Resistant RAG for Release Notes -**  Link will be available in June 2026
 
 </br>
 
@@ -137,8 +135,8 @@
 
 ## Honors And Awards
 
-#### ~ Women of Distinction Award – Champion of Change | March 2024 
-#### ~ Norms & Allen Outstanding Student Leader Award | January 2025 
+####  - **Women of Distinction Award – Champion of Change** | March 2024 
+####  - **Norms & Allen Outstanding Student Leader Award** | January 2025 
 
 </br>
 
@@ -146,9 +144,9 @@
 
 ## Collegiate To Professional Community Memberships
 
-#### ~ Institute of Electrical and Electronics Engineers (IEEE) | September 2026 - Present 
-#### ~ Institute of Electrical and Electronics Engineers (IEEE) | January 2025 - December 2025  
-#### ~ Association for Computing Machinery (ACM) | January 2026 - Present 
+#### - Institute of Electrical and Electronics Engineers (IEEE) | September 2026 - Present 
+#### - Institute of Electrical and Electronics Engineers (IEEE) | January 2025 - December 2025  
+#### - Association for Computing Machinery (ACM) | January 2026 - Present 
 
 </br>
 
