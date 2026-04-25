@@ -135,8 +135,8 @@
 
 ## Honors And Awards
 
-####  - **Women of Distinction Award – Champion of Change** | March 2024 
-####  - **Norms & Allen Outstanding Student Leader Award** | January 2025 
+####  - **Women of Distinction Award – Champion of Change** 
+####  - **Norms & Allen Outstanding Student Leader Award**  
 
 </br>
 
