@@ -44,14 +44,14 @@
 
 ### Implemented Quantum Machine Learning Model to Detecting Advance-Fee Fraud
 - **Project Type:** Research Project
-- 🔗 **Code Repository:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
+- **Code Repository:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
  -  **Skill Exposer:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Logistic Regression, SVM, Neural Network, Quantum Neural Network, PennyLane
 -  **Publish Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 ---
 
 ### Developed GenAI Release Note Intelligent System To Mitigate Hallucination Through Abstention Mechanism
 - **Project Type:** Research Project
-- 🔗 **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
+- **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
  - **Skill Exposer:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
 
 - **Publish Conference:** The 9th International Conference on Emerging Data and Industry, 2026
@@ -59,20 +59,20 @@
 
 ### Engineered ESP32 Sensor-Based Smart Light Detection & Monitoring System Using MongoDB
 -  **Project Type:** Full-stack Project
-- 🔗 **Code Repository:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
+-  **Code Repository:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
 - **Skill Exposer:** Python, JavaScript, JSON, MongoDB, Heroku, Render
 ---
 
 ### Built Course Recommendation Assistant
 -  **Project Type:** Full-stack Project 
-- 🔗 **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
+- **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
 -  **Skill Exposer:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
 
 ---
 
 ### Designed SQL Dashboard For User Engagement Cluster
 -  **Project Type:** Full-stack Project 
-- 🔗 **Code Repository:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
+- **Code Repository:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
 -  **Skill Exposer:** SQL, Tableau, Microsoft Graph API
 
 </br></br>
