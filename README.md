@@ -57,7 +57,7 @@
 - **Publish Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 ---
 
-### Engineered ESP32 Sensor-Based Smart Light Detection & Monitoring System Using MongoDB
+### ESP32 Sensor-Based Lighting & Monitoring Dashboards for Energy Consumption Analysis
 -  **Project Type:** Full-stack Project
 -  **Code Repository:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
 - **Skill Exposer:** Python, JavaScript, JSON, MongoDB, Heroku, Render
@@ -70,7 +70,7 @@
 
 ---
 
-### Designed SQL Dashboard For User Engagement Cluster
+### Designed SQL and Tableau Dashboards to Identify User Engagement Clusters
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
 -  **Skill Exposer:** SQL, Tableau, Microsoft Graph API
