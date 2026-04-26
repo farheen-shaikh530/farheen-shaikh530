@@ -49,7 +49,7 @@
 -  **Publish Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 ---
 
-### Developing GenAI Release Note System with LLM Abstain (In-progress)
+### Developing GenAI Release Note System with LLM Abstain
 - **Project Type:** Research Project
 - **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
  - **Skill Exposer:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
