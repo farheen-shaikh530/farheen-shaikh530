@@ -49,7 +49,7 @@
 -  **Publish Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 ---
 
-### Developed GenAI Release Note System with LLM Abstain (In-progress)
+### Developing GenAI Release Note System with LLM Abstain (In-progress)
 - **Project Type:** Research Project
 - **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
  - **Skill Exposer:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
@@ -63,7 +63,7 @@
 - **Skill Exposer:** Python, JavaScript, JSON, MongoDB, Heroku, Render
 ---
 
-### Built Course Recommendation Tool: Mapping U.S. Universities Against Global Universities
+### Built Course Recommendation Tool: Mapping U.S. University Courses Against Global Universities
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
 -  **Skill Exposer:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
