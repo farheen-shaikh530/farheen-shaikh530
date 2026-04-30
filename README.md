@@ -42,35 +42,34 @@
 
 ##  My Selected Work
 
-### Implemented Quantum Machine Learning Model to Detecting Advance-Fee Fraud
+### Quantum Machine Learning Model to Detecting Advance-Fee Fraud
 - **Project Type:** Research Project
 - **Code Repository:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
  -  **Skill Exposer:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Logistic Regression, SVM, Neural Network, Quantum Neural Network, PennyLane
 -  **Publish Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 ---
 
-### Developing GenAI Release Note System with LLM Abstain
-- **Project Type:** Research Project
+###  Hallucination Reduction Agent in Release Notes using LLM Abstai
 - **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
  - **Skill Exposer:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
 
 - **Publish Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 ---
 
-### ESP32 Sensor-Based Lighting & Monitoring Dashboards for Energy Consumption Analysis
+### Indoor Energy Consumption Tracing, Monitoring, and Notification System
 -  **Project Type:** Full-stack Project
 -  **Code Repository:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
 - **Skill Exposer:** Python, JavaScript, JSON, MongoDB, Heroku, Render
 ---
 
-### Built Course Recommendation Tool: Mapping U.S. University Courses Against Global Universities
+### Course Recommendation Asssitant : Mapping U.S. University Courses Against Global Universities
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
 -  **Skill Exposer:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
 
 ---
 
-### Designed SQL and Tableau Dashboards to Identify User Engagement Clusters
+### SQL and Tableau Dashboards to Identify User Engagement Clusters
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
 -  **Skill Exposer:** SQL, Tableau, Microsoft Graph API
