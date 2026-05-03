@@ -45,13 +45,13 @@
 ### Quantum Machine Learning Model to Detecting Advance-Fee Fraud
 - **Project Type:** Research Project
 - **Code Repository:** [quantum-advance-Fee-Fraud-detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
- -  **Skill Exposer:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Logistic Regression, SVM, Neural Network, Quantum Neural Network, PennyLane
+ -  **Tech Stacks:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Logistic Regression, SVM, Neural Network, Quantum Neural Network, PennyLane
 -  **Publish Conference:** IEEE SoutheastCon, Region 3 Conference, 2026
 ---
 
 ###  Hallucination Reduction Agent in Release Notes using LLM Abstain
 - **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
- - **Skill Exposer:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
+ - **Tech Stacks:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
 
 - **Publish Conference:** The 9th International Conference on Emerging Data and Industry, 2026
 ---
@@ -59,20 +59,20 @@
 ### Indoor Energy Consumption Tracing, Monitoring, and Notification System
 -  **Project Type:** Full-stack Project
 -  **Code Repository:** [IoT-Light-Sensor](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
-- **Skill Exposer:** Python, JavaScript, JSON, MongoDB, Heroku, Render
+- **Tech Stacks:** Python, JavaScript, JSON, MongoDB, Heroku, Render
 ---
 
 ### Course Recommendation Asssitant : Mapping U.S. University Courses Against Global Universities
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Course_Recommendation_WebApp](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
--  **Skill Exposer:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
+-  **Tech Stacks:** JavaScript, React.js, React Hooks, CSS, JSON, Netlify
 
 ---
 
 ### SQL and Tableau Dashboards to Identify User Engagement Clusters
 -  **Project Type:** Full-stack Project 
 - **Code Repository:** [Study-Abroad-Engagement-Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
--  **Skill Exposer:** SQL, Tableau, Microsoft Graph API
+-  **Tech Stacks:** SQL, Tableau, Microsoft Graph API
 
 </br></br>
 
