@@ -50,6 +50,7 @@
 ---
 
 ###  Hallucination Reduction Agent in Release Notes using LLM Abstain
+- **Project Type:** Applied Research Project
 - **Code Repository:** [Release-Note-Generative-AI-Framework-LLM-Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
  - **Tech Stacks:** Git, Python, PyTorch, Docker, S3, SageMaker, TensorRT, Triton, Kubernetes, AgentCore, Claude
 
