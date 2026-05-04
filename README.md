@@ -1,4 +1,5 @@
 <table><tr><td>
+<div align="justify">
 
 ## Hi, I'm Farheen 👋
 
@@ -6,26 +7,25 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ### What I'm working on:
 
-- **LLM evaluation & abstention systems** — built [Release Master](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain), a hallucination-resistant RAG system with a 5-gate abstention pipeline ([Published — EDI 2026](https://your-publication-link.com))
+- **LLM evaluation & abstention systems** — Application published [[Release Master](https://release-note-generative-ai-framework-llm.onrender.com/)], a hallucination-resistant RAG system with a 5-gate abstention pipeline 
 - **LLM-as-a-Judge frameworks** — designing automated evaluation workflows with RAGAS, BERTScore, and Human-in-the-Loop review
-- **Quantum-classical ML** — hybrid fraud detection using variational quantum circuits and PennyLane ( [Published — IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481))
+- **Quantum-classical ML** — hybrid fraud detection using variational quantum circuits and PennyLane ([Research Published — IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481))
 
 **Previously:** Software Developer at [Empronc Solutions](https://www.linkedin.com/company/empronc-solutions/) (full-stack systems, C#/.NET, Azure) · Digital Project Assistant at University of the Pacific (React.js, Python)
 
-**Background:** Software engineering by training →  ML through academics and research  → deep expertise in computational performance evaluation, system optimization, and building AI that knows when to abstain.
+**Background:** Software engineering by training → ML through academics and research → deep expertise in computational performance evaluation, system optimization, and building AI that knows when to abstain.
 
-
+</div>
 </td></tr></table>
 
-
 <table><tr><td>
+<div align="justify">
 
----
-
-<p align="left">
-  <img src="https://ghchart.rshah.org/00FF00/farheen-shaikh530" width="150%" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/1B5E20/farheen-shaikh530" width="100%" />
 </p>
 
+---
 
 ## 🛠 Languages & Tools
 
@@ -63,7 +63,6 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
   <img src="https://img.shields.io/badge/A%2FB_Testing-4285F4?style=for-the-badge"/>
 </p>
 
-
 ---
 
 ## 🌐 Languages I Speak
@@ -80,13 +79,15 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ## 📬 Reach Me
 
-<a href="mailto:farheen.s.shaikh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/fshaikh1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=cpGY_HMAAAAJ&view_op=list_works&sortby=title" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+<p align="left">
+  <a href="mailto:farheen.s.shaikh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/fshaikh1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=cpGY_HMAAAAJ&view_op=list_works&sortby=title" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+</p>
 
-
+</div>
 </td></tr></table>
 
 <div align="center">
