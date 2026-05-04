@@ -93,12 +93,6 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ---
 
-## 🎯 Behind the Screen
-
-📷 Photography · ✈️ Travel · 🥾 Hikes · 🚴 Cycling
-
----
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img alt="thanks for visiting" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
