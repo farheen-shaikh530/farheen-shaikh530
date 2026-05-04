@@ -11,9 +11,9 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 - **LLM-as-a-Judge frameworks** — designing automated evaluation workflows with RAGAS, BERTScore, and Human-in-the-Loop review
 - **Quantum-classical ML** — hybrid fraud detection using variational quantum circuits and PennyLane ([Research Published — IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481))
 
-**Background:** Software engineering by training → ML through academics and research → deep expertise in computational performance evaluation, system optimization, and building AI that knows when to abstain.
+**Background:** AI Automation Engineer by training → ML through academics and research → deep expertise in computational performance evaluation, system optimization, and building AI that knows when to abstain.
 
-**Previously:** Software Developer at [Empronc Solutions](https://www.linkedin.com/company/empronc-solutions/) (full-stack systems, C#/.NET, Azure) · Digital Project Assistant at University of the Pacific (React.js, Python)
+**Previously:** Software Developer (full-stack systems, C#/.NET, Azure) · Digital Project Assistant at University of the Pacific (React.js, Python)
 
 </div>
 </td></tr></table>
