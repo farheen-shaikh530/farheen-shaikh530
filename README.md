@@ -1,3 +1,5 @@
+<table><tr><td>
+
 ## Hi, I'm Farheen 👋
 
 ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
@@ -14,15 +16,10 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 📄 [Publications](https://ieeexplore.ieee.org/document/11476481) · 🌐 [Portfolio](https://farheen-shaikh-portfolio.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/farheen-shaikh0509/)
 
----
+</td></tr></table>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/2DA44E/farheen-shaikh530"
-    alt="GitHub Contributions Chart"
-    width="100%"
-  />
-</p>
+
+<table><tr><td>
 
 ---
 
@@ -70,7 +67,7 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/fshaikh1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 
----
+</td></tr></table>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
