@@ -26,36 +26,6 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ---
 
-
-
-## 📌 Selected Work
-
-### [Hallucination-Resistant RAG — LLM Abstain](https://github.com/farheen-shaikh530/Release-Note-Generative-AI-Framework-LLM-Abstain)
-`Python` `PyTorch` `Docker` `SageMaker` `TensorRT` `Triton` `Kubernetes` `Claude`
-> 5-gate abstention pipeline with NeMo Guardrails, tool-calling agents, and BERTScore validation
-> 
-> 📄 The 9th International Conference on Emerging Data and Industry, 2026
-
-### [Quantum ML for Advance-Fee Fraud Detection](https://github.com/farheen-shaikh530/quantum-advance-Fee-Fraud-detection)
-`Python` `NumPy` `Scikit-learn` `PennyLane` `Neural Networks`
-> Hybrid quantum-classical model using variational quantum circuits and amplitude encoding
->
-> 📄 [IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481)
-
-### [IoT Energy Monitoring System](https://github.com/farheen-shaikh530/IoT-Light-Sensor)
-`Python` `JavaScript` `MongoDB` `Heroku` `Render`
-> Real-time indoor energy consumption tracking with threshold-based alerts
-
-### [Course Recommendation Assistant](https://github.com/farheen-shaikh530/Course_Recommendation_WebApp)
-`React.js` `JavaScript` `CSS` `Netlify`
-> Course mapping platform aligning U.S. university catalogs with global equivalents
-
-### [Study Abroad Engagement Dashboard](https://github.com/farheen-shaikh530/Study-Abroad-Engagement-Dashboard)
-`SQL` `Tableau` `Microsoft Graph API`
-> User engagement cluster analysis with interactive Tableau dashboards
-
----
-
 ## 📄 Publications
 
 - 📄 **Quantum ML for Advance-Fee Fraud Detection** — [IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481)
