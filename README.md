@@ -26,27 +26,6 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ---
 
-## 📄 Publications
-
-- 📄 **Quantum ML for Advance-Fee Fraud Detection** — [IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481)
-- 📄 **Hallucination-Resistant RAG for Release Notes** — EDI 2026 (link available June 2026)
-
----
-
-## 🏆 Honors & Awards
-
-- **Women of Distinction Award — Champion of Change**
-- **Norms & Allen Outstanding Student Leader Award**
-
----
-
-## 🤝 Professional Memberships
-
-- Institute of Electrical and Electronics Engineers (IEEE) | 2025 – Present
-- Association for Computing Machinery (ACM) | 2026 – Present
-
----
-
 ## 🛠 Languages & Tools
 
 <p align="left">
