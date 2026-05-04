@@ -22,6 +22,11 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 
 ---
 
+<p align="left">
+  <img src="https://ghchart.rshah.org/00FF00/farheen-shaikh530" width="150%" />
+</p>
+
+
 ## 🛠 Languages & Tools
 
 <p align="left">
