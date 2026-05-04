@@ -19,11 +19,6 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 </td></tr></table>
 
 <table><tr><td>
-<div align="justify">
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1B5E20/farheen-shaikh530" width="100%" />
-</p>
 
 ---
 
@@ -88,6 +83,10 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 </p>
 
 </div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/39FF14/farheen-shaikh530" width="100%" />
+</p>
+
 </td></tr></table>
 
 <div align="center">
@@ -97,3 +96,8 @@ ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), b
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+
+<div align="justify">
+
+
+
