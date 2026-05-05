@@ -3,7 +3,7 @@
 
 ## Hi, I'm Farheen 👋
 
-ML Research Engineer at [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
+AI & HPC Research Engineer at [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
 
 ### What I'm working on:
 
