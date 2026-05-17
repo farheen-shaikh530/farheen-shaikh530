@@ -3,7 +3,7 @@
 
 ## Hi, I'm Farheen 👋
 
-Data Scientist with AI/ML & Research passion, graduated from [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
+Data Scientist with AI/ML & Research passion, graduate from [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
 
 ### What I'm working on:
 
