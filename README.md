@@ -3,17 +3,10 @@
 
 ## Hi, I'm Farheen 👋
 
-Data Scientist with AI/ML & Research passion, graduate from [University of the Pacific](https://www.pacific.edu/), building evaluation systems and hallucination-resistant AI for enterprise applications.
+A Research Data Engineer, graduated from [University of the Pacific](https://www.pacific.edu/), building data-heavy distributed LLM applications and insights.
 
-### What I'm working on:
+**Background:** Distributed System Experience Through Software Developer  → Data and ML expert through Master's program and projects → Research enthusiast through Research and Development
 
-- **LLM evaluation & abstention systems** — Application published [Release Master], a hallucination-resistant RAG system with a 5-gate abstention pipeline 
-- **LLM-as-a-Judge frameworks** — designing automated evaluation workflows with RAGAS, BERTScore, and Human-in-the-Loop review
-- **Quantum-classical ML** — hybrid fraud detection using variational quantum circuits and PennyLane ([Research Published — IEEE SoutheastCon 2026](https://ieeexplore.ieee.org/document/11476481))
-
-**Background:** Research & Data Engineer by training → ML through academics and research → deep expertise in computational performance evaluation, system optimization, and building AI that knows when to abstain.
-
-**Previously:** Software Developer (full-stack systems, C#/.NET, Azure, MySQL) · Digital Project Assistant at University of the Pacific (React.js, Python)
 
 </div>
 </td></tr></table>
