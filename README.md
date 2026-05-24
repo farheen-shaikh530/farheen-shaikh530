@@ -54,18 +54,6 @@ Research Data Engineer graduated from the University of the Pacific, building da
 
 ---
 
-## 🌐 Languages I Speak
-
-<p align="left">
-  <img src="https://img.shields.io/badge/English-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Urdu-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hindi-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Marathi-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arabic-red?style=for-the-badge"/>
-</p>
-
----
-
 ## 📬 Reach Me
 
 <p align="left">
