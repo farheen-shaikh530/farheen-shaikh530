@@ -1,31 +1,27 @@
-Research Data Engineer graduated from the University of the Pacific, building data-heavy distributed LLM applications — from high-volume pipelines to inference optimization.
-
 <table><tr><td>
 <div align="justify">
 
 ## Hi, I'm Farheen 👋
 
-Background: Distributed Systems → Data & ML Expertise → Research & Monitoring
+Research Data Engineer graduated from the University of the Pacific, building data-heavy distributed LLM applications — from high-volume pipelines to inference optimization.
+
+**Background**: Distributed Systems → Data & ML Expertise → Research & Monitoring
 
 <br>
 
-<span style="color:#a855f7">Research Assistant:</span>
-  Published research papers for ideal system workflow, developed RAG architectures to ensure data accuracy, hallucination predictive dashboard for data completeness monitoring.
+<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers for ideal system workflow, developed RAG architectures to ensure data accuracy, hallucination predictive dashboard for data completeness monitoring.
 
 <br>
 
-<span style="color:#a855f7">ML Expert + Digital Project Assistant:</span>
-  Implemented prompt templates, documented application logs and training data, reported to the observability team, ensured data detection of reasoning gaps.
+<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span> Implemented prompt templates, documented application logs and training data, reported to the observability team, ensured data detection of reasoning gaps.
 
 <br>
 
-<span style="color:#a855f7">Software Developer:</span>
-  Accelerated performance of finance-focused database through query tuning, monitoring application logs, built and oversaw distributed database objects such as triggers, stored procedures and database functions.
+<span style="color:#a855f7">> **Software Developer:**</span> Accelerated performance of finance-focused database through query tuning, monitoring application logs, built and oversaw distributed database objects such as triggers, stored procedures and database functions.
 
 </div>
 </td></tr></table>
 
----
 
 ## 🛠 Tools & Technologies
 
