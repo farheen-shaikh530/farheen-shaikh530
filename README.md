@@ -13,7 +13,7 @@ Research Data enthusiast graduated from the University of the Pacific, building 
 
 <br>
 
-<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span> Implemented prompt templates, documented application logs and training data, reported to the observability team, ensured data detection of reasoning gaps.
+<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span> Implemented prompt templates, documented application logs and training data, reported to the observability team, ensured anolalies detection cause reasoning gaps.
 
 <br>
 
