@@ -9,16 +9,15 @@ An AI automation & data enthusiast, graduated from the University of the Pacific
 
 <br>
 
-<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers for ideal system workflow, developed RAG architectures to ensure data accuracy, hallucination predictive dashboard for data completeness monitoring.
+<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers for ideal system workflow, referred paper to developed RAG architectures and achieved output precision by 85%, ensuring successful shipment of software releases and patches.
 
 <br>
 
-<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span> Implemented prompt templates, documented application logs and training data, reported to the observability team, ensured anolalies detection cause reasoning gaps.
+<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span>Implemented and oversaw prompt templates, documented generated output to train model under RHLF, and reported to the SME team, improving LLM accuracy by 80%, ensuring user trust and SLA continuity.
 
 <br>
 
-<span style="color:#a855f7">> **Software Developer:**</span> Accelerated performance of finance-focused database through query tuning, monitoring application logs, built and oversaw distributed database objects such as triggers, stored procedures and database functions.
-
+<span style="color:#a855f7">> **Software Developer:**</span> Built and oversaw sophisticated database objects such as triggers, accelerated performance of finance-focused database through query tuning, reduce application latency by 40%, enhance user engagement and retention.
 </div>
 </td></tr></table>
 
