@@ -9,15 +9,15 @@ An AI automation & data enthusiast, graduated from the University of the Pacific
 
 <br>
 
-<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers LLM hallucination and use it for ideal system workflow, implemented readoning gap detective model and RAGAS evaluation, achieving output precision by 85%, ensuring successful shipment of software releases and patches.
+<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers LLM hallucination and use it as an ideal benchmark process, implemented reasoning gap detective model with RAGAS evaluation, improving output precision by 85%, ensuring customer loyalty and retention.
 
 <br>
 
-<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span>Implemented and oversaw prompt templates, documented generated output to train model under RHLF, and reported to the SME team, improving LLM accuracy by 80%, improving customer trust and successfully attracting new clients.
+<span style="color:#a855f7">> **ML Expert + Digital Project Assistant:**</span> Implemented and oversaw prompt templates, documented generated output to train model under RHLF, and reported to the SME team for post training process, reducing LLM hallucination by 60%, improving customer trust and successfully attracting new clients.
 
 <br>
 
-<span style="color:#a855f7">> **Software Developer:**</span> Built and oversaw native execution plans, optimized database objects such as triggers and stored procedures, accelerated performance of application, and reduce application latency by 40%, enhance user engagement and retention.
+<span style="color:#a855f7">> **Software Developer:**</span> Built and oversaw native execution plans, and optimized database objects such as triggers and stored procedures, which accelerated application performance, and reduce query processing latency by 40%, ensuring system continuity.
 </div>
 </td></tr></table>
 
