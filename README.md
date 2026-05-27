@@ -9,7 +9,7 @@ An AI automation & data enthusiast, graduated from the University of the Pacific
 
 <br>
 
-<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers for ideal system workflow, referred paper to developed RAG architectures and achieved output precision by 85%, ensuring successful shipment of software releases and patches.
+<span style="color:#a855f7">> **Research Assistant:**</span> Published research papers LLM hallucination and use it for ideal system workflow, implemented readoning gap detective model and RAGAS evaluation, achieving output precision by 85%, ensuring successful shipment of software releases and patches.
 
 <br>
 
