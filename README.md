@@ -5,7 +5,7 @@
 
 An AI automation & data enthusiast, graduated from the University of the Pacific, building data-heavy distributed LLM applications — from high-volume pipelines to inference optimization.
 
-**Background**: Distributed Systems → Data & ML Expertise → Research & Monitoring
+**Background**: Distributed Systems Developer → ML Expertise → Research, Modelling and Development
 
 <br>
 
