@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
+ 
+  <img src="https://img.shields.io/badge/Based%20in-San%20Francisco-blueviolet?style=flat-square"/>
+</p>
+
 ## Hi, I'm Farheen 👋
 
 A Research Science enthusiast who builds data-heavy LLM applications and Insights. Keen focus on feature engineering, Agentic RAGs retrieval, and inference optimization has enabled me to deliver scalable and accurate dashboards and web applications.
