@@ -1,4 +1,6 @@
 <p align="center">
+    <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
+
   <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
  
   <img src="https://img.shields.io/badge/Based%20in-San%20Francisco-blueviolet?style=flat-square"/>
@@ -73,9 +75,9 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 ---
 
 ### 🧠 Behind the Screen
-
-<sub>🥾 **Hiking** — Nature resets me. There's something about a quiet trail that makes everything else make sense.</sub><br>
 <sub>🚴 **Cycling** — My calves live for the pedal. Moving is thinking.</sub><br>
+<sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
 <sub>☕ **Foods** — Always chasing the next great coffee and ethnic food spot.</sub><br>
+<sub>🌙 **Night owl** — The best ideas find after midnight, when the world goes quiet and the screen glows.</sub><br>
 <sub>⚡ **AWS Hackathon** — Built an autonomous agent that optimizes ETL/ELT pipeline performance.</sub><br>
 <sub>✍️ **Writing** — Blogs, technical notes, and Urdu poetry — because code isn't my only language.</sub>
