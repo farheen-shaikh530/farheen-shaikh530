@@ -10,6 +10,8 @@
 
 A Research Science enthusiast who builds data-heavy LLM applications and Insights. Keen focus on feature engineering, Agentic RAGs retrieval, and inference optimization has enabled me to deliver scalable and accurate dashboards and web applications.
 
+---
+
 ## ⚡  Currently
 
 ```yaml
