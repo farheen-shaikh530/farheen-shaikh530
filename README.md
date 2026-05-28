@@ -21,7 +21,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 
 ---
 
-### 🛠 Tech Stacks
+## 🛠 Tech Stacks
 <p align="center"><strong>· Languages · Databases</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,7 +63,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 
 ---
 
-### 📬 Connect
+## 📬 Connect
 
 <p align="Center">
   <a href="mailto:farheen.s.shaikh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -74,7 +74,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 
 ---
 
-### 🌿 Behind the Screen
+## 🌿 Behind the Screen
 <sub>🚴 **Cycling** — My calves live for the pedal. Moving is thinking.</sub><br>
 <sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
 <sub>✈️ **Travel** — New cities, new turns, coffees at new restraunt — that's where the real stories live.</sub><br>
