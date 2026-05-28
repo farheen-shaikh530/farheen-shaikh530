@@ -77,7 +77,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 ---
 
 ## 🌿 Behind the Screen
-<sub>🚴 **Cycling** — My calves live for the pedal. Moving is thinking.</sub><br>
+<sub>🚴 **Cycling** — Moving is thinking.</sub><br>
 <sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
 <sub>✈️ **Travel** — New cities, new turns, coffees at new restraunt — that's where the real stories live.</sub><br>
 <sub>🌙 **Night owl** — The best ideas find after midnight, when the world goes quiet and the screen glows.</sub><br>
