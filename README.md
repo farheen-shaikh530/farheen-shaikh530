@@ -1,7 +1,7 @@
 ### 🛠 Tech Stacks
 
 
-**Languages ·Databasea**
+**· Languages · Databasea**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-**Observability · Fine-Tuning**
+**· Observability · Fine-Tuning**
 <p align="left">
     <img src="https://img.shields.io/badge/Monte_Carlo_Simulation-00897B?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/MCP-FE6100?style=for-the-badge"/>
@@ -29,7 +29,7 @@
 </p>
 
 
-**Cloud · MLOps**
+**· Cloud · MLOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -54,3 +54,13 @@
   <a href="https://x.com/FarheenSS05" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
+
+
+---
+### 🧠 Behind the Screen
+
+<sub>🥾 **Hiking** — Nature resets me. There's something about a quiet trail that makes everything else make sense.</sub><br>
+<sub>🚴 **Cycling** — My calves live for the pedal. Moving is thinking.</sub><br>
+<sub>☕ **Foods** — Always chasing the next great coffee and ethnic food spot.</sub><br>
+<sub>⚡ **AWS Hackathon** — Built an autonomous agent that optimizes ETL/ELT pipeline performance.</sub><br>
+<sub>✍️ **Writing** — Blogs, technical notes, and Urdu poetry — because code isn't my only language.</sub>
