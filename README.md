@@ -74,7 +74,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 
 ---
 
-### 🧠 Behind the Screen
+### 🌿 Behind the Screen
 <sub>🚴 **Cycling** — My calves live for the pedal. Moving is thinking.</sub><br>
 <sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
 <sub>☕ **Foods** — Always chasing the next great coffee and ethnic food spot.</sub><br>
