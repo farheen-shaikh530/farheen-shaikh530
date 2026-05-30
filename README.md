@@ -3,7 +3,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
  
-  <img src="https://img.shields.io/badge/Based%20in-San%20Francisco-blueviolet?style=flat-square"/>
 </p>
 
 ## Hi, I'm Farheen 👋
@@ -15,7 +14,7 @@ A Research Science enthusiast who builds data-heavy LLM applications and Insight
 ## ⚡  Currently
 
 ```yaml
- location:   San Francisco, CA
+ location:   California, USA
  focus:      agentic RAGs · LLM inference optimization · database performance
  research:   feature engineering · retrieval systems · scalable data pipelines
  open_to:    research collabs · hackathons · open-source contributions
