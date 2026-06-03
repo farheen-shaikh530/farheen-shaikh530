@@ -15,7 +15,7 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 
 ```yaml
  location:   California, USA
- focus:      agentic RAGs · LLM inference optimization · database performance
+ focus:      database performance · agentic RAGs · LLM inference optimization 
  research:   feature engineering · retrieval systems · scalable data pipelines
  open_to:    research collabs · hackathons · open-source contributions
 ```
