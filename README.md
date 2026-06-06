@@ -25,8 +25,8 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 ## 🛠 Tech Stacks
 <p align="center"><strong>· Languages · Databases</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED3838?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
