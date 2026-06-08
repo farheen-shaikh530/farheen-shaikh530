@@ -81,4 +81,4 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 <sub>✈️ **Travel** — New cities, new turns, coffees at new restraunt — that's where the real stories live.</sub><br>
 <sub>🌙 **Night owl** — The best ideas find after midnight, when the world goes quiet and the screen glows.</sub><br>
 <sub>⚡ **AWS Hackathon** — Built an autonomous agent that optimizes ETL/ELT pipeline performance.</sub><br>
-<sub>✍️ **Writing** — Blogs, technical notes, and Urdu poetry — because code isn't my only language.</sub>
+<sub>✍️ **Writing** — Blogs, technical notes, and poetry — because code isn't my only language.</sub>
